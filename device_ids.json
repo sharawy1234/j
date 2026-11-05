@@ -404,5 +404,29 @@
     "deviceId": "df68094bfe0f04f7",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgxelRpvbavp0O8iKI\nZ9Q0R38u7S6KP11TRZSfEEPrRrehRANCAASWNSYbusulKlu3XpS+iagxLib+T7k/\n30Sw15jSuPtBlxKO9H92W1massFCZ2m8aby21oJxJ5DkEv4a3oTMHXDC\n-----END PRIVATE KEY-----"
   }
+    ,"mohamedelbeshbishy87@outlook.com": {
+    "deviceId": "9e93ef217a725a40",
+    "privateKey": "----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgASmxbuqdJRieSaFw\n9BXjzffCbyygpBi/fWqDMvz5vA+hRANCAAQo4Pi0nXV75Zq5hNJav9R3hMu/w0Y1\nHACV5Ul648OH9Ahcn1mCxYaaE1WhUk/0gQQxoIpZTuM9MaPOH6Gh6R/p\n-----END PRIVATE KEY-----"
+  }
+,"MustafaAttia64@outlook.com": {
+    "deviceId": "4a0fef5ed9cfd433",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgGx63avDThjUdg8kR\n9sBQ757yUgD++0slV0Rb0qp2o2OhRANCAASl1QK8mvpKB9+R4DeP3TCyoTDG6kZG\nhgHSmXolY8onoCMqvI1uSqVsXyhLhx98D5LE1JR2hKS/Df7SpMEuYFOi\n-----END PRIVATE KEY-----"
+  }
+   ,"hisham310aa@outlook.sa": {
+    "deviceId": "26673e884c0e69b5",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgmmq3xbSK7rwZ/fdf\nfYYzM/BWiZA7uHJOHPPVsWrNbcGhRANCAAQ283ped/gjxXZ0RYiAEgVEOmKto6ay\n9kc8pLCYdrBXVLYu7rU5cTcmhxuVkiXLvoSXHIyHmM6L+orAos3KkvVP\n-----END PRIVATE KEY-----"
+  }
+   ,"ahmedmohamed25011@outlook.com": {
+    "deviceId": "feaa722000d7be25",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgTUaqgwPZHQFexx13\nmKgpb1E7kKJDP3VxydUpBOB7ydqhRANCAAR8nBmcjVvFc7PcAopzGzdcbEPhfFWS\nKDVeKzcv9oAJeL0HEb2jlEkZV+/vNh5+h1wtbHH55cLN9Id03EXk2rQI\n-----END PRIVATE KEY-----"
+  }
+    ,"aimedmo28@gmail.com": {
+    "deviceId": "fdf4a616e62a9619",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgUU23XdAPGbFwD6B4\n+NNN4To1gbqfdh1gc1SbRkd5mnehRANCAASiREzuMORQ2LIvW9vOpJdrVIMb8S3P\ndm3nW5o1OSxnH5F5yCUuY0WsX5jlYVCTPbNpCAEiHMPxI6CT/MKwlj9t\n-----END PRIVATE KEY-----"
+  }
+   ,"saadelsayedd2026@outlook.com": {
+    "deviceId": "40fc20659863b7f5",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgsCCNJD8OWlKatDc7\n8Ky/siS2Td8BpsIN1izCYFeCU6KhRANCAAQY7K5eqaAioUMobslY7r5O3Zxu33i/\nr4Zwjbjhy+AfN2A0sDzpOpMqvrm/N2/g1WqZAwbTFw7dY0MKByTXO74U\n-----END PRIVATE KEY-----"
+  }
 
 }
