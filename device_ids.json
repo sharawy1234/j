@@ -436,5 +436,9 @@
     "deviceId": "2b4da18916b5891a",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgXvK6yNeUCLuzXbor\neMfop4RvOi1CdGkGIpiWyGKCvbqhRANCAATEPwCy1mFW59ijHUIxHysYMlv0IqV5\nMTk84xIHnvlWIZmCr/YkkwADWMpchzhhsU4OoJajzi1cIFa2Z54HH8iv\n-----END PRIVATE KEY-----"
   }
+   ,"gaafaribrahim84@outlook.com": {
+    "deviceId": "bb00cfaf896c4c4f",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgkdGCQApKRp96KwaH\nZS2c5ONsreNQ+hP2qGIxCzRmAgShRANCAASuo4HaPAWgehwXlLdqPxaTtxbHgkgw\nHvz7XPOVr+ws+kXFwRPfi0XDScNoPorvPa/t0pK0mIYEmlynKGSv+/um\n-----END PRIVATE KEY-----"
+  }
 
 }
