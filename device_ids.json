@@ -428,5 +428,9 @@
     "deviceId": "40fc20659863b7f5",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgsCCNJD8OWlKatDc7\n8Ky/siS2Td8BpsIN1izCYFeCU6KhRANCAAQY7K5eqaAioUMobslY7r5O3Zxu33i/\nr4Zwjbjhy+AfN2A0sDzpOpMqvrm/N2/g1WqZAwbTFw7dY0MKByTXO74U\n-----END PRIVATE KEY-----"
   }
+   ,"rayyanEldabsha456@outlook.com": {
+    "deviceId": "b1381ded628620e4",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgjgTtLiUtynfFQid4\nQbPKvoHNha9Mqjj67swyM0KkBwqhRANCAAQ8oRB+L/dU1/kiB/Pd4otZxwvHJOJr\nklDnmlBIb1UOr36IdIMjXQRBNxGz1DsXTYWG1udedQoCteKSZI3MS9le\n-----END PRIVATE KEY-----"
+  }
 
 }
