@@ -448,5 +448,9 @@
     "deviceId": "fe5f3dc6d07cfa39",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgZWtjMta49tOyR2Pg\n8plQJ70EJHV8Ohyd/i5XeMRDckyhRANCAAQL/q86kWDHkMpSjKuZYqeCMqn2k6Ef\nu4KU+1wyGWK0b2hGacfCDKkVGliAGEnRmIwISBa4/DKc+Y473gl7WSvP\n-----END PRIVATE KEY-----"
   }
+   ,"ibrahimhanafy2013@outlook.com": {
+    "deviceId": "6c97abf69d281eb5",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgtxuuzVa2RaZCiDCp\nJeVU9doINavRAzMlsHRVtL2pSSKhRANCAARBKAuM5dmsaklw+TiS9wgZWD3vJGMp\nK1Ni6tRtYp+px4IJh2K9rMs7123/ID863atw6D4ZBwpQEExVBWQCMrwW\n-----END PRIVATE KEY-----"
+  }
 
 }
