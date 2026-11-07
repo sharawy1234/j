@@ -464,5 +464,9 @@
     "deviceId": "92d67b3251d3dc29",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgvdB8MYZCnP8yr9Gs\nMQlEhQ/g947doezPGAEoiSAvNcuhRANCAARKanpSM5UjaWCAV5FJkYMoNCEKlBSD\nX6c9X1qBjsLMlnscvQFaEuMVfLI7L9yQ0q/KEpunDIAflmBj6Lbt7XMp\n-----END PRIVATE KEY-----"
   }
+   ,"aliabdelaziz2009@outlook.com": {
+    "deviceId": "6d0b96e91feb9f6f",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg3XL6UUNv5zy1ZErf\nz2CuUAKgDeHA1O8k5SXLcCoRF9ChRANCAASTkFtOckjuQpDK/NdVaI6ceyTus5nJ\n3DrFwAuGZsoXVy0mmXFJJHIMj/BmGaK44R2U1e1pSYieR2fCthlndIr2\n-----END PRIVATE KEY-----"
+  }
 
 }
