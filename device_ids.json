@@ -460,5 +460,9 @@
     "deviceId": "909e326438bfad2a",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgEFaV56k+Ts17dV56\nyVYcrAWfbXZMAl4iJwMieGoi6bihRANCAAQp9xi3KEDlTKQCEeeBEsS6WZA/c9JJ\n3mHakVIeTRknNGXRVhsW6Rj/R7rvWB55DdzdgTh+n5QOkX+dWjOatO9a\n-----END PRIVATE KEY-----"
   }
+   ,"abdullaelmezain2021@outlook.com": {
+    "deviceId": "92d67b3251d3dc29",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgvdB8MYZCnP8yr9Gs\nMQlEhQ/g947doezPGAEoiSAvNcuhRANCAARKanpSM5UjaWCAV5FJkYMoNCEKlBSD\nX6c9X1qBjsLMlnscvQFaEuMVfLI7L9yQ0q/KEpunDIAflmBj6Lbt7XMp\n-----END PRIVATE KEY-----"
+  }
 
 }
