@@ -452,5 +452,9 @@
     "deviceId": "6c97abf69d281eb5",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgtxuuzVa2RaZCiDCp\nJeVU9doINavRAzMlsHRVtL2pSSKhRANCAARBKAuM5dmsaklw+TiS9wgZWD3vJGMp\nK1Ni6tRtYp+px4IJh2K9rMs7123/ID863atw6D4ZBwpQEExVBWQCMrwW\n-----END PRIVATE KEY-----"
   }
+   ,"manalsalem87@outlook.com": {
+    "deviceId": "901caf85ca8c2389",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgvzw6qVrwKpx5SFFN\nYjcstfoEe1/Y4cMZ60FAFWlfdPihRANCAAQlEvwh2JHul8LJmTcBBFLcCaq4ZYwR\nL54JMeys9cs6qthR7PpeBB9R3MLCynajdN0VPziByuDPJsYk2BVNd93M\n-----END PRIVATE KEY-----"
+  }
 
 }
