@@ -456,5 +456,9 @@
     "deviceId": "901caf85ca8c2389",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgvzw6qVrwKpx5SFFN\nYjcstfoEe1/Y4cMZ60FAFWlfdPihRANCAAQlEvwh2JHul8LJmTcBBFLcCaq4ZYwR\nL54JMeys9cs6qthR7PpeBB9R3MLCynajdN0VPziByuDPJsYk2BVNd93M\n-----END PRIVATE KEY-----"
   }
+   ,"hagermo1993@outlook.com": {
+    "deviceId": "909e326438bfad2a",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgEFaV56k+Ts17dV56\nyVYcrAWfbXZMAl4iJwMieGoi6bihRANCAAQp9xi3KEDlTKQCEeeBEsS6WZA/c9JJ\n3mHakVIeTRknNGXRVhsW6Rj/R7rvWB55DdzdgTh+n5QOkX+dWjOatO9a\n-----END PRIVATE KEY-----"
+  }
 
 }
