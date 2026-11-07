@@ -440,5 +440,13 @@
     "deviceId": "bb00cfaf896c4c4f",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgkdGCQApKRp96KwaH\nZS2c5ONsreNQ+hP2qGIxCzRmAgShRANCAASuo4HaPAWgehwXlLdqPxaTtxbHgkgw\nHvz7XPOVr+ws+kXFwRPfi0XDScNoPorvPa/t0pK0mIYEmlynKGSv+/um\n-----END PRIVATE KEY-----"
   }
+   ,"es9348475@gmail.com": {
+    "deviceId": "2c5e1f4091c75668",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgzhMWN0s5V2886815\no5/J7d015bIrzCGvf8l4+psFX4mhRANCAAR8UQ52VHNCKEesLbWq0sLQNfdXl3Hy\nXDZn+gSXuLlh6TujazB5lxcpSJehbz/PY6BzqtV/U28ogoTwOWSr96x2\n-----END PRIVATE KEY-----"
+  }
+   ,"belalhanafy856@outlook.com": {
+    "deviceId": "fe5f3dc6d07cfa39",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgZWtjMta49tOyR2Pg\n8plQJ70EJHV8Ohyd/i5XeMRDckyhRANCAAQL/q86kWDHkMpSjKuZYqeCMqn2k6Ef\nu4KU+1wyGWK0b2hGacfCDKkVGliAGEnRmIwISBa4/DKc+Y473gl7WSvP\n-----END PRIVATE KEY-----"
+  }
 
 }
