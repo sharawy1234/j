@@ -504,6 +504,10 @@
     "deviceId": "ec247988b9c5ba79",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg7S0kMUznc5R+fDOL\n9xkD+0Js0WhIO/u2S9x4MT4xs5ihRANCAAT3iuqspyN96CcRqpzSYKbABBqn4Uhz\n79d14AmJ0EN5+LG4AFXG8W8d4w5Mz/ns1AHh8BCLHMjdLAjQ6Rp9vxrH\n-----END PRIVATE KEY-----"
   }
+   ,"farhamoursi17@outlook.com": {
+    "deviceId": "2e2a0465dd3c6bf0",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgH2pdMgrkiDJJpJDr\n0zgv5jIlSvHOQhplHe8D3A5u/nChRANCAARhwRMi+8y2nkWLONeCNPlsaTMegT2X\nOoTTcxR6MToFlILmgiTYBi1/oa8BKjt8wHOrQ4Q8mzrqYKP+K5V2YeJx\n-----END PRIVATE KEY-----"
+  }
 
 
 }
