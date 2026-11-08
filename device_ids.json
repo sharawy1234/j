@@ -576,6 +576,14 @@
     "deviceId": "1cd1c27cb4ffb894",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgsFRtKrdriNCRwH3D\nvYENYBIRWPd+ASyH6+56Nr2+nCKhRANCAATE09dBwm+Mbvjkvbodj4yns/s1jpDX\nnJFsW0jEBXcQZW1uYW0qFpNRrUuQOigmNSMlQsUczZKWjXv1ttWczhfR\n-----END PRIVATE KEY-----"
   }
+   ,"omnia_elkoumy6@proton.me": {
+    "deviceId": "1cd1c27cb4ffb894",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgsFRtKrdriNCRwH3D\nvYENYBIRWPd+ASyH6+56Nr2+nCKhRANCAATE09dBwm+Mbvjkvbodj4yns/s1jpDX\nnJFsW0jEBXcQZW1uYW0qFpNRrUuQOigmNSMlQsUczZKWjXv1ttWczhfR\n-----END PRIVATE KEY-----"
+  }
+   ,"hebahussein536@gmail.com": {
+    "deviceId": "e545902bf7ed1dfe",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgbghvJwYn3zorFSck\nt9maDWeId+4adtO3/Wmr2zW7qKWhRANCAAR8Dv2X+wSNZbVnttgQBsC2Miu8+9MT\n2m6Rs/g0kFW49WeYS70kbpgaoOTawAvoWi4PTtq6apOTfQJ6FSvdgefL\n-----END PRIVATE KEY-----"
+  }
    
 
 
