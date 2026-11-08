@@ -519,7 +519,16 @@
    ,"Akramagamy@gmail.com": {
     "deviceId": "70827864a1bdc41c",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgaLD9UGIilCeAeKnI\n+I/TDoW3r8Z8MapdrOgWCLIzS+uhRANCAAQzKqBHd5dXWgVwWCD9LRLGSKWZxOQi\ngIVAYZi1sm/ftoAjfoIilegwYlRE/jEBZtWdVOGEvMDdgcE8P/+IdtFm\n-----END PRIVATE KEY-----"
-  }
+  }, "samarkhairyabuzaid@outlook.com": {
+        "deviceId": "9c34ac7cd10b42f5",
+        "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVs5ZQpzJ4ZeND/yoR1f/0P44fvn5yZmYenVKSgdiiiaHkY+pYjdhgPnlEz7Co7Vvg6Mv11VYZjIJpcp9rrgW5g==",
+  "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgm+Y0SSrQTYJbzEDR\nnM4dF8/9LYYvfPHFQvmdm4L49rehRANCAARWzllCnMnhl40P/KhHV//Q/jh++fnJ\nmZh6dUpKB2KKJoeRj6liN2GA+eUTPsKjtW+Doy/XVVhmMgmlyn2uuBbm\n-----END PRIVATE KEY-----\n"
+ }, "eslamshawkyhegazy@outlook.com": {
+        "deviceId": "e4c2a83dc33c43e5",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9C+ErZyxUD9hi1WUAkLD2sw8NtUZLKgMDIRdRWbFqo3lnZCR0U7fYpjitflu1W0g0L/R55HwQzYWHPU02WM28A==",
+  "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgCMM7KpAdKwX+kPDZ\nNJezfAxWYlILCDBATb5aXZAiizKhRANCAAT0L4StnLFQP2GLVZQCQsPazDw21Rks\nqAwMhF1FZsWqjeWdkJHRTt9imOK1+W7VbSDQv9HnkfBDNhYc9TTZYzbw\n-----END PRIVATE KEY-----\n"
+   }
+   
 
 
 }
