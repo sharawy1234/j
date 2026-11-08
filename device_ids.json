@@ -588,6 +588,10 @@
     "deviceId": "e8f7aeb9de2f85f6",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgsRiq5WnsiKIMH1bB\nCH4CuRvGlXdxfSO69xn1sHHk+s6hRANCAAQxokr6qlodV3tXcDYI5z75vha1Jq9d\nL7BhQ7eDWO4G+ch8Wq+l1JihySzhTzHB1zI0IUwHuwElDjabBKrez+u8\n-----END PRIVATE KEY-----"
   }
+   ,"roujinamoustafa@gmail.com": {
+    "deviceId": "ed09c54ebaf01586",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgYYt79bQRF/s6rc8e\nwQagJBL/+F6Pb0X26beTFFM3Q2uhRANCAATMrxnuA9qC5rVMKs8uV5jYtjktQDYg\nYsItyZCn8wLvsAEj6pY2pwgchu7h9ty4I/4xmPFb/3IBfpoQQZueVysN\n-----END PRIVATE KEY-----"
+  }
    
 
 
