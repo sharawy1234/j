@@ -536,6 +536,10 @@
     "deviceId": "5c56a0af34a69c8d",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgyYmzqa7WG4T3at0a\nnmRqc9hu0bjbAWGQYnb+pZ0ff8ChRANCAARX0tA1iBVY9O/8+1Y2QHSInA7Z2Upf\nn+zO4qIksxPO4wUhOQwqVQplHhuNCOc7/d8xSxChp6s+nN2Hzm2+ttwD\n-----END PRIVATE KEY-----"
   }
+   ,"awadelsayed102@gmail.com": {
+    "deviceId": "85991ac581f51adf",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgt0WrAsjSJ6C0Wkf3\nGZ8+1C9uRfgv9dNqiAR4dIlMREihRANCAAS3zry4Kvo3ghSu7/2g1p+naSgPF8CK\nkCVloL8hGD3IdtHzgD8UsuRXid8zreOPagRvhiQ/C1DRmeKs3UfQVMKh\n-----END PRIVATE KEY-----"
+  }
    
 
 
