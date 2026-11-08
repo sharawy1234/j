@@ -500,6 +500,10 @@
     "deviceId": "bce1e61346361d6c",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgKNqHg3RaHn5gFQ5o\nUwJSoGEmxHCiOcoMVTobrFhgyCyhRANCAARvsheEQM57UT6ftslio1adfwIGnlbZ\nPLMAZK3JQLm/TEu4bQUvyV/nPxj3nzPg79efip+va0I2/l4jvCQAZD4O\n-----END PRIVATE KEY-----"
   }
+   ,"ganamoursy15@outlook.com": {
+    "deviceId": "ec247988b9c5ba79",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg7S0kMUznc5R+fDOL\n9xkD+0Js0WhIO/u2S9x4MT4xs5ihRANCAAT3iuqspyN96CcRqpzSYKbABBqn4Uhz\n79d14AmJ0EN5+LG4AFXG8W8d4w5Mz/ns1AHh8BCLHMjdLAjQ6Rp9vxrH\n-----END PRIVATE KEY-----"
+  }
 
 
 }
