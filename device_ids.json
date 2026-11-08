@@ -516,6 +516,10 @@
     "deviceId": "4299a6c5190016e5",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg4gD0ynDYFDf6aZrF\n9JN+MhqVoJZ0I0egdsUMuOoPTPOhRANCAAQK03VFxFQuZJ+Fj+zBQGKbvumYvwxT\nRZsHv0Yjx4ElKVZY9i3iNNLxZFnFwHvcGHIfRwWC8QidEOo+MsGz6Wqb\n-----END PRIVATE KEY-----"
   }
+   ,"Akramagamy@gmail.com": {
+    "deviceId": "70827864a1bdc41c",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgaLD9UGIilCeAeKnI\n+I/TDoW3r8Z8MapdrOgWCLIzS+uhRANCAAQzKqBHd5dXWgVwWCD9LRLGSKWZxOQi\ngIVAYZi1sm/ftoAjfoIilegwYlRE/jEBZtWdVOGEvMDdgcE8P/+IdtFm\n-----END PRIVATE KEY-----"
+  }
 
 
 }
