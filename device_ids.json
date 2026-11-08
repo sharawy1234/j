@@ -548,6 +548,10 @@
     "deviceId": "e95bc2a83dd3fb74",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgtkIPNXAPNg07kU7T\nBJcbAKuqEXZQtRG2rqrbUCEYg9ahRANCAATZuCsG63TQ7vRxGnB593Li7gIE7/E8\nqgA5coSkirXICMX0dr1Jvzb7PJUfLc4KrBBfiYVu4hwEuiK19urM9qT9\n-----END PRIVATE KEY-----"
   }
+   ,"algana1002x@gmail.com": {
+    "deviceId": "bd49b876fa22b8e0",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgl3PUgAh+KhAC8+25\nbHE5Awk6vxrKup2soTdroGAWXl2hRANCAARTFyBM2vJEFxrj9ezrdzhPAlXj/QxF\n0NHyD65j1Mhj15ZYNEZjaYY3Dl9UpPLjbRXhskhjEoPYKeptYmDkLBQ0\n-----END PRIVATE KEY-----"
+  }
    
 
 
