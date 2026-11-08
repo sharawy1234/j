@@ -572,6 +572,10 @@
     "deviceId": "c03a9593ef71c2da",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgfAAV2joayh3gqV/L\n2d96n7P0bUBEGYOaH5ZFMhaOCvehRANCAAQI69T6qvJzPNsm7rQSKHBAQwSBOR9d\nyUbjzrXYhOglAq5J/WKV2UpMAUdJMRA8gFX4QgYVlAxuJg14GdiJv2z8\n-----END PRIVATE KEY-----"
   }
+   ,"omnia_elkoumy6@proton.me": {
+    "deviceId": "1cd1c27cb4ffb894",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgsFRtKrdriNCRwH3D\nvYENYBIRWPd+ASyH6+56Nr2+nCKhRANCAATE09dBwm+Mbvjkvbodj4yns/s1jpDX\nnJFsW0jEBXcQZW1uYW0qFpNRrUuQOigmNSMlQsUczZKWjXv1ttWczhfR\n-----END PRIVATE KEY-----"
+  }
    
 
 
