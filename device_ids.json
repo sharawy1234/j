@@ -496,6 +496,10 @@
     "deviceId": "cc63b130dc1bfeac",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgzkN2n6iCUG4rAp3C\nCWdhSNbqCHrEzDr4Qrt9sd9XAnqhRANCAATihTC7g8Fidvi/m19+3gDuDq73LCI2\nQlgDUk7Emv4diTv5GxOi6T0XqzLNfG2BwLnGvDXC8Tg12VBmBu3ycfmP\n-----END PRIVATE KEY-----"
   }
+   ,"mohamedelmohamdi456789@outlook.com": {
+    "deviceId": "bce1e61346361d6c",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgKNqHg3RaHn5gFQ5o\nUwJSoGEmxHCiOcoMVTobrFhgyCyhRANCAARvsheEQM57UT6ftslio1adfwIGnlbZ\nPLMAZK3JQLm/TEu4bQUvyV/nPxj3nzPg79efip+va0I2/l4jvCQAZD4O\n-----END PRIVATE KEY-----"
+  }
 
 
 }
