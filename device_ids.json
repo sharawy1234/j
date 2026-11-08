@@ -544,6 +544,10 @@
     "deviceId": "b9703eb249b14bad",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgC0uy0cDRW2FwVJFx\nOkDwXU4CqppdeZ1UIpFtvbwe01WhRANCAAR1+kbaHjRfwokHURc6o2DOjRsKGJEW\n2e7VySoxoj3RUEz/W8lqq5rMZG1Fl7Sukd3peyXySoqmkkvO0qdfYGSo\n-----END PRIVATE KEY-----"
   }
+   ,"mahmoud_radwan6@proton.me": {
+    "deviceId": "e95bc2a83dd3fb74",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgtkIPNXAPNg07kU7T\nBJcbAKuqEXZQtRG2rqrbUCEYg9ahRANCAATZuCsG63TQ7vRxGnB593Li7gIE7/E8\nqgA5coSkirXICMX0dr1Jvzb7PJUfLc4KrBBfiYVu4hwEuiK19urM9qT9\n-----END PRIVATE KEY-----"
+  }
    
 
 
