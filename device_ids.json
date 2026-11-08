@@ -492,6 +492,10 @@
     "deviceId": "e03b874221972c19",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgMgg1t+1tS2CnTceg\nuk1NhWz9pO8LsBPt8AGMjk0jJFWhRANCAARoD5FZuORmNtXsUPCm3IUb4dJRW34y\nHlfNxreTtJFB6M3hfQlpCWM+vSoPOJOiibxbK6bbGQ7TlLOWMZ7f9mOw\n-----END PRIVATE KEY-----"
   }
+   ,"shaimaaabdelmawlla@outlook.com": {
+    "deviceId": "cc63b130dc1bfeac",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgzkN2n6iCUG4rAp3C\nCWdhSNbqCHrEzDr4Qrt9sd9XAnqhRANCAATihTC7g8Fidvi/m19+3gDuDq73LCI2\nQlgDUk7Emv4diTv5GxOi6T0XqzLNfG2BwLnGvDXC8Tg12VBmBu3ycfmP\n-----END PRIVATE KEY-----"
+  }
 
 
 }
