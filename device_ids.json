@@ -488,6 +488,10 @@
     "deviceId": "86999c84b8b51930",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgKg/n79mKamjGit2T\nfkJfX/8mNWjDZa/xEvYMlOdKqRChRANCAASOnaItzryctGrFTJn3hveurpmGS9qn\nclLu5lNoGtMsK/BCjmTmos2mfsVBZhzyDRtf20t+dMhoI0yi0B8dS7+j\n-----END PRIVATE KEY-----"
   }
+   ,"Asmaasheriry@outlook.com": {
+    "deviceId": "e03b874221972c19",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgMgg1t+1tS2CnTceg\nuk1NhWz9pO8LsBPt8AGMjk0jJFWhRANCAARoD5FZuORmNtXsUPCm3IUb4dJRW34y\nHlfNxreTtJFB6M3hfQlpCWM+vSoPOJOiibxbK6bbGQ7TlLOWMZ7f9mOw\n-----END PRIVATE KEY-----"
+  }
 
 
 }
