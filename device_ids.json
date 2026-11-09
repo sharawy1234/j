@@ -612,9 +612,11 @@
     "deviceId": "5e6626828f998b58",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgE2KwqQ9LU2jxz8L7\nrm112UYAirjjkVK5OhObvESQKN2hRANCAASZSJj9w7z9muVWc2yY8olibzjTZ3Xo\nbNbALGbkyYpEGYfXjiEhfP9JzWxSTP0ITRgxi0N+kifiD6QTv51H2RF1\n-----END PRIVATE KEY-----"
   }   
-
-}
 ,"mohamedsalam78@proton.me": {
     "deviceId": "328c18d8589d0817",
-    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgluXmgf279xY/Qhow\nwbjHSYOJU4C1QoMkt+am861nh1+hRANCAASgSqDgukVbHdB9aHkEQ8B37UPOfhG/\n7pTebO0x6uL05amWGYSiiV+jfs1ZlLjSeFQ9wmuO2ruKLLv2Kc0B69yd\n-----END PRIVATE KEY-----"
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgluXmgf279xY/Qhow\nwbjHSYOJU4C1QoMkt+am861nh1+hRANCAASgSqDgukVbHdB9aHkEQ8B37UPOfhG/\n7pTebO0x6uL05amWGYSiiV+jfs1ZlLjSeFQ9wmuO2ruKLLv2Kc0B69yd\n-----END PRIVATE KEY-----" 
+  }   
+,"tabarakbaioumy2009@proton.me": {
+    "deviceId": "c3d55a0dc2c80ab0",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgGLdhWiyo2H7sPJv8\nNBIjmNb9BMT5uWz15fHOsOFbzHuhRANCAAQhbWlCbnF1TaqEQiNGi0Lc3mCMtz+P\nxdXAzhLd0dsOgyvMeEuuE3HCOp8xbyDOKUtFIFnI7BtQU/VfsCg+l0Lz\n-----END PRIVATE KEY-----"
   }   
