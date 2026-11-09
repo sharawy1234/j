@@ -604,7 +604,10 @@
     "deviceId": "2134bb5dff1d8736",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgTbx7DUlGN4tJ33X9\nkTwloY4CQ1C4O5wLFtkWJisf8JuhRANCAARsEVfaileTjBPZnK/ksrW5GBabuuYf\nePLK3RdSuBlwD7Uc9M/5xxFjopzh99BhIVXVZwLhwO+6zCdU6pMYoooc\n-----END PRIVATE KEY-----"
   }
-   
+,"khaledah2004@proton.me": {
+    "deviceId": "9879e0a08a262337",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgwsvydU7US1ShXi1c\nosjcDGBukF9bIlSfZKvTWv41CwyhRANCAASecNqVw2CrshGQYwtV2rJPwfN1JMi9\nTv/PSun0j9Q4RJJe4QYMqinm5h90eqAKazpMzz5phztuziEmuTBK7u2G\n-----END PRIVATE KEY-----"
+  }   
 
 
 }
