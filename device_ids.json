@@ -608,6 +608,9 @@
     "deviceId": "9879e0a08a262337",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgwsvydU7US1ShXi1c\nosjcDGBukF9bIlSfZKvTWv41CwyhRANCAASecNqVw2CrshGQYwtV2rJPwfN1JMi9\nTv/PSun0j9Q4RJJe4QYMqinm5h90eqAKazpMzz5phztuziEmuTBK7u2G\n-----END PRIVATE KEY-----"
   }   
-
+,"abdallahshehata99@proton.me": {
+    "deviceId": "328c18d8589d0817",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgluXmgf279xY/Qhow\nwbjHSYOJU4C1QoMkt+am861nh1+hRANCAASgSqDgukVbHdB9aHkEQ8B37UPOfhG/\n7pTebO0x6uL05amWGYSiiV+jfs1ZlLjSeFQ9wmuO2ruKLLv2Kc0B69yd\n-----END PRIVATE KEY-----"
+  }   
 
 }
