@@ -655,4 +655,8 @@
         "deviceId": "b52b2380a1727451",
         "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgruo6zPa53cWqE8DH\nT5hxl/dUI/XlW6HMtoT1mQlibJ+hRANCAAQc59HNbYdopiedWsYLA9pSjvmimeGQ\nKYWYrDeaJmAN1NaqTS+w6NP/oialwWhU8euLUXHdMulKuIUSHnrSl3ar\n-----END PRIVATE KEY-----"
   }
+   ,  "abanoubibrahimnady@protonmail.com": {
+        "deviceId": "807f822c10984c91",
+        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgXMcJpWGtQ6BFO4fK\noVbLUGvCAnZ4zfaxkxJUc5WBSeOhRANCAASsiqCcCaNwla3lnafl80vTr5nZPepn\n7if0Us0sA7jjN6m47OvO7AKAqvB2ZgUvEJvp3F+tVovW8hGrPjU1Vl5e\n-----END PRIVATE KEY-----"
+  }
  }
