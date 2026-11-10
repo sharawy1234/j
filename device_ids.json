@@ -627,5 +627,20 @@
    ,  "badranfares10@gmail.com": {
         "deviceId": "486ff8a23243d50b",
         "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgI55JptZTqLFMLCqn\nFKcAb2XfcymxwFTSHfaUvvd6t9ChRANCAAQ4N6LKjdJe5slNTPpqbsbAN00Y0pw4\nyoVgLrgVSAXoaUEmuLJKH1zWKHaWVT5XbTf4Oua2k7rORlRA55p6ykwW\n-----END PRIVATE KEY-----"
+  },  "Mohamedm20271@outlook.com": {
+        "deviceId": "1429bb96c078988f",
+        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgZ2XT6QSkAIpSYfb7\nb3M0LJtnCUH4qPwt1pM4iDSlxGuhRANCAARDU5cN61gt1hE3FFMBLs0+VRCdd/lP\nyeJ97yJOhwyij5pzk2NYTU5ckoNOmJGCkv6xsEYHFWf3f7EcxOR53jD9\n-----END PRIVATE KEY-----"
+  }
+   ,  "fetouhmowafy@outlook.com": {
+        "deviceId": "f06857eb1d9c13d6",
+        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgH0xrh72wpGUsMTjD\n/2SM5M0eHeH2fikdEpioEIoQr26hRANCAATlqzy0YJjcg8/zB3Q5GStSEx+wXhv/\nuyKosU6W9WRLRVaJZwdRn/qcCB/+u3A2HO4cWtY3XNRKbEnCKV/efJ2/\n-----END PRIVATE KEY-----"
+  }
+   ,  "Ahmedhashad460@gmail.com": {
+        "deviceId": "5a1de5f7a7d711b0",
+        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgG7E9Z66L9qu2NvIe\nlBM7g0WvNfiZZaPjQcFM335fOkqhRANCAASPPCrXrcEqY6+bCgHsiOMsnN8FIxyK\nSo0qdd7T8fYtGKbwj1/ZVDYsWIocXqRzj7mnZNLFNou2cJcWggrp+Wax\n-----END PRIVATE KEY-----"
+  }
+   ,  "abdelsalam.khodair.1963@outlook.com": {
+        "deviceId": "0bc0f404fdd1631f",
+        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgBEAWDTI7NcqLiRkw\n5tQUiFkfgPmDHtcz+FO8owhHiOWhRANCAAS4iCZ2XrY9Uvfe6u8o3eQwmzkmStX7\ne4UkgFqEhEa+7a5UsFWP5r9+SJ5BW+1YJnOsM5SKStAC5S/JQpHeqgr2\n-----END PRIVATE KEY-----"
   }
  }
