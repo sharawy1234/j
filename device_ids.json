@@ -643,4 +643,8 @@
         "deviceId": "0bc0f404fdd1631f",
         "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgBEAWDTI7NcqLiRkw\n5tQUiFkfgPmDHtcz+FO8owhHiOWhRANCAAS4iCZ2XrY9Uvfe6u8o3eQwmzkmStX7\ne4UkgFqEhEa+7a5UsFWP5r9+SJ5BW+1YJnOsM5SKStAC5S/JQpHeqgr2\n-----END PRIVATE KEY-----"
   }
+   ,  "mohamed.nada2026@outlook.sa": {
+        "deviceId": "5de989f73bc29e9c",
+        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgT9/xX4V/O9v6EmgS\nClMfaz+MLQ+gShOLUqcuGM/fHF2hRANCAAQEngQbbVn6Sg7d+rU1o4UpYe47sv3v\n3Tl+ZWBBNfyhX1AcNkrqc3bPZ6PZOZZZ2I8o0qBH6R5VlTbZGVRARIng\n-----END PRIVATE KEY-----"
+  }
  }
