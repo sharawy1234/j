@@ -624,4 +624,8 @@
         "deviceId": "f1bdf3ab9672409c",
         "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg1Nuz+7gRhHip8JfO\nZ5YENYy61wBJbaxUtkYHy5pNvHGhRANCAARHXZGDuRdhL0OcwJgJPQxZcnYRKrSB\nhg3whhSp/7N8Od+i7VhjQCTu1EbW7pVWMJbdzq5/gsETz3S6TChjJGYP\n-----END PRIVATE KEY-----\n"
   }
+   ,  "badranfares10@gmail.com": {
+        "deviceId": "486ff8a23243d50b",
+        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgI55JptZTqLFMLCqn\nFKcAb2XfcymxwFTSHfaUvvd6t9ChRANCAAQ4N6LKjdJe5slNTPpqbsbAN00Y0pw4\nyoVgLrgVSAXoaUEmuLJKH1zWKHaWVT5XbTf4Oua2k7rORlRA55p6ykwW\n-----END PRIVATE KEY-----"
+  }
  }
