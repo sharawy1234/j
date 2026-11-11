@@ -699,4 +699,8 @@
     "deviceId": "45557d67f91760b3",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgzSJxrWUfAHJq66d4\nmTgLDP9b33xkabSczOVjk3/3CwqhRANCAARbL8l7EaW/6nWyhjMI/43A9IBANhJN\nEOEUTN51wnfelPW++rzeVqIdDqvxiCdqWmEyLLSYKLFC2W4Cj5d6k7bO\n-----END PRIVATE KEY-----"
   }
+   ,  "omarmansour15111997@gmail.com": {
+    "deviceId": "b9c7f2b2f2c3b470",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgZ52mLO/uWXEt+Umw\nV4JpJ1zaFaHMookRgQ/ZhuSLfyihRANCAASkmzA5Z1xWKu0VEZQB36DvXXaHgoR9\ngvMAgDROW9Jk1Hq46JGuVdmRr2NnVugGE5ssF+uiCTzNcC2VQ/YD6Bja\n-----END PRIVATE KEY-----"
+  }
  }
