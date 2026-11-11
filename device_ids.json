@@ -673,4 +673,11 @@
         "deviceId": "7303af8fa71ad62e",
         "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgxYcGgD7t83T3PrwY\nx8451ADYZbUfFJLyofjcmjRLyXShRANCAASMZW1qMm0XNuxtqHn9FNfnvcb5CSWF\nM4d1TfffnMXVCZWJF0K6o+A/9W2i/hqzu7QegCcyJV0jS5gikDHrvM/x\n-----END PRIVATE KEY-----"
   }
+   ,  "mamdouhali88@outlook.com": {
+        "deviceId": "7303af8fa71ad62e",
+        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgxYcGgD7t83T3PrwY\nx8451ADYZbUfFJLyofjcmjRLyXShRANCAASMZW1qMm0XNuxtqHn9FNfnvcb5CSWF\nM4d1TfffnMXVCZWJF0K6o+A/9W2i/hqzu7QegCcyJV0jS5gikDHrvM/x\n-----END PRIVATE KEY-----"
+  },  "ALIALISHAWKI@outlook.com": {
+        "deviceId": "f5fae512aa80c892",
+        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg7/ArI7dEL2MAzZbz\n3foRmumvkZBpcuLM4QkI7cyHD/mhRANCAARzhC+8plBOewPw924Qlru+wm+QmSeU\n+k0aOu/VFOWTbWfCKqzNSLbjrlGkGjKB29YUTLbsSDizpIPkRNE5kPLo\n-----END PRIVATE KEY-----"
+  }
  }
