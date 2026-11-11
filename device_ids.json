@@ -724,5 +724,8 @@
   },  "Ahmedmarawan556@protonmail.com": {
     "deviceId": "6ec07a6e66d94351",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgwjoKx+a5bVz6m/uj\nT5bg67/temmHLph7iyqeKCg2HDmhRANCAATATWq/6pOXbXtiu41dEcnIOxNGUxM9\nKW3hL9mil/FokwnnYV7XN8OzV/hWOPGac6nxpSXWR+onDvEVAOL452Pg\n-----END PRIVATE KEY-----"
+  },  "islamsobh258@protonmail.com": {
+    "deviceId": "45aa78becbe0eeb5",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgFMWYLzX66VZZG6tO\np/woCRG6g02aEObi48NV/9wNFW+hRANCAAS6zurIhdijO9zUkdg3E7awzVRQjtt0\nM47dNHS4YPJmuc7ziiS7irJTsPO7Wdalm0+yAG1vPV15+o5SwKL1r2O4\n-----END PRIVATE KEY-----"
   }
  }
