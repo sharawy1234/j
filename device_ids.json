@@ -706,5 +706,8 @@
    ,  "KHALEDMOHAMEDABOKHALIL@hotmail.com": {
     "deviceId": "0120044715b9beca",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgn8ujMezeNNChD5ak\nZ3TQUgufXdanVzlCYi3WB5FtcJqhRANCAATulwS9oVF9K4HL/ThD1D3YGUykOmtV\ntx7IKqyy45KYy6del6Nos9kmG8yCeF8Y6o4WmYiv5jYQdnapQWQcVFxw\n-----END PRIVATE KEY-----"
+  },  "elsayedelmekawy9@protonmail.com": {
+    "deviceId": "25c14ab01f9b1bc8",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgkx4wZur6X440LKoP\nOAySv7XoDhrgpVxu0A2M9JxDMyyhRANCAASMFJ3RPkCJx0v7y1I/Pf1f0UjVsTRi\nGI2q+JLJySjz85264XmQHX7+0h2SwI+fl6Sa1+lF/9jC3reeCFaYe2m3\n-----END PRIVATE KEY-----"
   }
  }
