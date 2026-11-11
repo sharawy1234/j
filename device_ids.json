@@ -709,5 +709,8 @@
   },  "elsayedelmekawy9@protonmail.com": {
     "deviceId": "25c14ab01f9b1bc8",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgkx4wZur6X440LKoP\nOAySv7XoDhrgpVxu0A2M9JxDMyyhRANCAASMFJ3RPkCJx0v7y1I/Pf1f0UjVsTRi\nGI2q+JLJySjz85264XmQHX7+0h2SwI+fl6Sa1+lF/9jC3reeCFaYe2m3\n-----END PRIVATE KEY-----"
+  },  "emanabohomos12@gmail.com": {
+    "deviceId": "711f800953f6fe4e",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg2tPGiiRvSGkfxhoG\nV/ASJfHad+3cbShrY3AVi5rtnHihRANCAARPrm1fyrmGQavG2cUlpJHv6b9k/P5a\nF7fsLxnOj6T0BSEcTP8AmyhwML2/M6Vu2XPDMXJtdRIY3mDErht5pru1\n-----END PRIVATE KEY-----"
   }
  }
