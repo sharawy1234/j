@@ -258,10 +258,6 @@
         "deviceId": "39f7f703c2f34afa",
       "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQggfixnK4wLYQME8Sl\njyLMITnayORDCHu53hIj25jddAChRANCAAQUfIBLaOZgLTEAJIbmeoJQM+E9D0yB\nLVXPA3VvH7oYwdNhjUJmsNvKMj6SG8DyvtNFL3U0ihxo31U9AOIfsfQh\n-----END PRIVATE KEY-----\n"
    }
-   ,"ahmedzahra1986@outlook.com": {
-      "deviceId": "5bfaf515c351f67f",
-      "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg1ruRyrac1oVFL/CQ\nh18E/2exMq1GArVh50RaACtJ1aWhRANCAATlLXWa/8pUTzOkeWq34+kdMZ7Lpyoj\n4CkB5j/OaVd8oPmyoRO7CoYkN7cDrKKkISGE/4Cb1nFKanupa7phyUMZ\n-----END PRIVATE KEY-----"
-   } 
    ,  "ebrahim_rlgayara6@outlook.com": {
         "deviceId": "872f402bbe034e3c",
        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgh2o7wKebqpPw3Vm3\nBJyphM7JEasSZrDe9jsxwBE28QahRANCAARcALtvSr2eBeE73nnumnnrs2C5gnfz\nlt99ubfT04ye517E2XU9KbmpmvQdUW2I4VFbwnNrMNscSt/rdnOpObRG\n-----END PRIVATE KEY-----\n"
