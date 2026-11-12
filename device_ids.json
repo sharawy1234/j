@@ -752,4 +752,8 @@
     "deviceId": "3f8d54d51fafbebd",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgzCdEE8x+o6QIrjAk\nrQZS6vAhqjnWFT25od6Yp+qk3B+hRANCAATbkP+k0CidzduSr5qJ0bBbybgA2b5L\nI3ziOQquP/4Y5VC7tirl4hboS62irs62F4tfXt/KQ6XKcSYPQ+/vN3/T\n-----END PRIVATE KEY-----"
   }
+,  "islamhanafy856@protonmail.com": {
+    "deviceId": "073ceaba7131ff71",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg56haWegZ5MrDRj5E\nSxPDgmBHL6DTCWa8ufXGoRqY1UKhRANCAARysJ4puaREfTMA4M50O/p3WnCOKKAi\nIB+qcCa3LWn+5Hb/rQDr6Axjtjq9KGx+EH4i955mhnTjjy+YVpxwstKQ\n-----END PRIVATE KEY-----"
+  }
  }
