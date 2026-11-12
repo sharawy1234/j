@@ -756,4 +756,8 @@
     "deviceId": "073ceaba7131ff71",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg56haWegZ5MrDRj5E\nSxPDgmBHL6DTCWa8ufXGoRqY1UKhRANCAARysJ4puaREfTMA4M50O/p3WnCOKKAi\nIB+qcCa3LWn+5Hb/rQDr6Axjtjq9KGx+EH4i955mhnTjjy+YVpxwstKQ\n-----END PRIVATE KEY-----"
   }
+,  "AhmedIbrahim80@proton.me": {
+    "deviceId": "bb8e2fa4635358f9",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg5pLoesZF43dKsUlm\nZYFp0g5Dan7fDiigm92F5Zz35bahRANCAARGWZaVch5S/lXWpvBYxyoRMJ0lOOGm\n0GZFgXhDWjGnIqcN1wgqNbSJ+ntDx308kKpTkney8iTC3JAJIG3OTPUN\n-----END PRIVATE KEY-----"
+  }
  }
