@@ -852,4 +852,8 @@
     "deviceId": "50e1c6e82bacdf80",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgwpoAG6wbVUSuICfj\nQq99K7bAG/YitKCDW3ipxwbICkyhRANCAASg2egjYCVKMm4ZyErLzRYrWUeAgmjJ\n1GA+9zSGE0eYXBykbOjsIucrI6vDjxiNkr1QcK7EeIgca6DsPOI0wv/+\n-----END PRIVATE KEY-----"
   }
+,  "AbdelrahimImam2536@protonmail.com": {
+    "deviceId": "6793e910d3ae10ae",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgQc7b7w1hVNBOIuIA\nR7oqC8DNR/0+9l3xl5jpC8KMTG2hRANCAAR6XQ00fK8T5S/pM2o4h8uZAGdzdpEG\nXFOSKn4grDu34nK5ruh0PN39zXKuF+7ETnGlZLKFV6k8OvyxYofzjo8b\n-----END PRIVATE KEY-----"
+  }
  }
