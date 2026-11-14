@@ -817,4 +817,8 @@
     "deviceId": "fbeb67a82badf70e",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgQtTo+TPdYBQtenaF\nOQqDUTA76ifYabUptxFY4pyf/tOhRANCAAR72/ZHxmeSGYmtcKlhlM0WXp7ajQZP\nRBvI+cz6BmcaAiozX0LWyJQniZ7JZxlzZ3YUzkTQK41HMyanSakD1qDz\n-----END PRIVATE KEY-----"
   }
+,  "Khalidahmed125@protonmail.com": {
+    "deviceId": "6639576fa2996568",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQglZHBf9BJ/J+sz4NH\n7wQql9UxkXDTIlL9mOwRh+aGR/6hRANCAAQr+Zut3+8ZrhVCfpCX0hRVwjMHcuT4\n0GkCMCmuEaDVWQeZudwhXQN/CV8tSzMM9Q3A59k8ZeFISBaYD9NK9nDw\n-----END PRIVATE KEY-----"
+  }
  }
