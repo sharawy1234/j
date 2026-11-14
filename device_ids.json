@@ -764,4 +764,12 @@
     "deviceId": "577abb1fd8195c32",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg+nUE/ck1FOsBa2IK\nZk0Gth/u7QgbdU1MLiH+b2uJF36hRANCAARsOtTEJ5/sTey2WN2+yo3dLNeCyLHX\nUqmRljUOssifJfxiDAjN80DE989UxvmjkLF/8Tr1y6T6p/FPMeqfCiJI\n-----END PRIVATE KEY-----"
   }
+,  "ahmedmoawad14585@gmail.com": {
+    "deviceId": "7a15bd6edf21d688",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgyCpSBNFjNohQYFEo\nrhLJxC/4kFfSSnjtaQ9yfesDO0+hRANCAAQI+/xEvehPdT6z91mxqfjT1k46+4bF\nGwKNuxnoAevSL3BebJ+nLL7IjgHy1rIG0uqLNJMmMGH9GYFL5fnaKfTx\n-----END PRIVATE KEY-----"
+  }
+,  "ragabibrahim12@outlook.com": {
+    "deviceId": "720db662c2014f0e",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgws2ffD0vhsZP7KUV\nDntfVrPyWXXZwa+rQBhOLn9y9JihRANCAASZG5D9DNphJobGwxeLfdoQutOp33R1\n8nIXq6CZWl8YePBxTSWwhii4zPfd175Z/NGTcCb6ABBuENQd9iPr5TZg\n-----END PRIVATE KEY-----"
+  }
  }
