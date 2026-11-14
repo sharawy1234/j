@@ -809,4 +809,8 @@
     "deviceId": "c23cc195c081a48c",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgnB9UUFJ75mNIhLcT\nZ9lyk564/vLC3lVkuS2JNgL/DTmhRANCAARbxAAAAzK6OSfdSc6ZsVJN1XVYlY+G\nfEss0oouToklNqbku50QgJgO4g7oOUrdj5Buz6fZ/PGSdJysLJGHc1DM\n-----END PRIVATE KEY-----"
   }
+,  "sadek.goziph@libero.it": {
+    "deviceId": "7ec36c9c1526a89a",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgAQ1JnygLTCBNnxRJ\nk961SwuKJ17x28MuLitqJThlsYShRANCAATT4GrzJA4rM8x8JGJsiTkgbnc/Plbt\n+AT+uaEyc0hD4XeJ3G5mUIyaRiUlJSEl2UsJuJb2Lz96cjA/oZGQnnwt\n-----END PRIVATE KEY-----"
+  }
  }
