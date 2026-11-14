@@ -788,4 +788,8 @@
     "deviceId": "ee43edb700c642dc",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg/GMBGhOvbTqSpLpw\nc3Zj+/Vjyo9vHA15DEsgW2gy2JihRANCAAQsVLbOVkvP7KbAiouqUrgV0pu60aNC\n+ONx+t1Axcl72UQnYgo4ZSHBx5EYWPJ1+MV0Q37JOsVVU9TAhR9UfAF0\n-----END PRIVATE KEY-----"
   }
+,  "DoaaMohamed789@protonmail.com": {
+    "deviceId": "a94d8c7486601181",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgNK3WiDf7rcgw71pe\nofPQfH7bazubnovGOGFUEJk+VkShRANCAASgw4mJeQLCgOiRZGJnYSXs5U18idqr\nxjAVr9XicgkrGYt60QcVbVt8XLL3SLvF03XJLnzVBTsBdv6l6KFPDvMy\n-----END PRIVATE KEY-----"
+  }
  }
