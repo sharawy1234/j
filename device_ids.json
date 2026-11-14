@@ -844,4 +844,8 @@
     "deviceId": "06317c24c23fdf12",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgDaLXF9kM/U02yOC5\nSfCwyUKkQuI86JVeFnVXOLX9szChRANCAAQgDtrRGX4iO5FuhsbvOHtFi2cA6Wr7\nSwIw2ns15dioWDMUI5w0O/J0x4KOhzTmbhHUoP/Ss2bNjyid6UBrzQQA\n-----END PRIVATE KEY-----"
   }
+,  "misk20252026@outlook.com": {
+    "deviceId": "e3b9f5a8512b00e1",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgfwMZOHaU6AaBBXfX\nIEVPm3YwunzC6PeZOdlWw3keKUqhRANCAATw86UVqjQyEv7uFgaoFjCeiBrhXqiu\nkbhlhUEeaUOpl1fEzdJ4zTSahMgEFuJ/Bi+PpUkntIDQYlx1O7yEB2bk\n-----END PRIVATE KEY-----"
+  }
  }
