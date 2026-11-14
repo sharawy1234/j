@@ -784,4 +784,8 @@
     "deviceId": "181d7218c69352e1",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgHeP55CkVBjFVGyIV\ndzQz7hJxaDRpgRlBxNMia/rdoQGhRANCAARMvxMt+zjnBpu2IAV4jdGURMsMWBQL\nNainFu4mGR3RIjkWI+Fvn2j+1Y2I5TUgCWreH0lZKTTB+7731gNVYolT\n-----END PRIVATE KEY-----"
   }
+,  "Mohamedshaaban253@protonmail.com": {
+    "deviceId": "ee43edb700c642dc",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg/GMBGhOvbTqSpLpw\nc3Zj+/Vjyo9vHA15DEsgW2gy2JihRANCAAQsVLbOVkvP7KbAiouqUrgV0pu60aNC\n+ONx+t1Axcl72UQnYgo4ZSHBx5EYWPJ1+MV0Q37JOsVVU9TAhR9UfAF0\n-----END PRIVATE KEY-----"
+  }
  }
