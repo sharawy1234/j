@@ -836,4 +836,8 @@
     "deviceId": "b533f68bbcc78ec4",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgps7OXwlcsHbjB4iH\nFSVP/B5Yh7D0BXHiH8Uu1GMIL2mhRANCAAQAfHbubpE0hJWQkztu/P4ltp8dK4pl\nhRR07q7O0FS+KC6V4XP0k0Qn2emrqJp0riBNMIVG80bGRZMZhl+Ru/UX\n-----END PRIVATE KEY-----"
   }
+,  "marwaIbrahim236@protonmail.com": {
+    "deviceId": "3d7fb6b9f615c9f7",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQga17W/yCCog5DXuoX\nnSq/GjcPQwAB2b0jdYXlOxWM506hRANCAAQentO9fM/MNlw4SyTefuGyaFwhjALm\nPlWgMaL/U4HJdc1HtVhlsDVBWb347BCmxi/4JgnF6l3NU1rsWTBGswdY\n-----END PRIVATE KEY-----"
+  }
  }
