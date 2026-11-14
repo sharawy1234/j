@@ -840,4 +840,8 @@
     "deviceId": "3d7fb6b9f615c9f7",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQga17W/yCCog5DXuoX\nnSq/GjcPQwAB2b0jdYXlOxWM506hRANCAAQentO9fM/MNlw4SyTefuGyaFwhjALm\nPlWgMaL/U4HJdc1HtVhlsDVBWb347BCmxi/4JgnF6l3NU1rsWTBGswdY\n-----END PRIVATE KEY-----"
   }
+,  "OmarElaggouri678@outlook.com": {
+    "deviceId": "06317c24c23fdf12",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgDaLXF9kM/U02yOC5\nSfCwyUKkQuI86JVeFnVXOLX9szChRANCAAQgDtrRGX4iO5FuhsbvOHtFi2cA6Wr7\nSwIw2ns15dioWDMUI5w0O/J0x4KOhzTmbhHUoP/Ss2bNjyid6UBrzQQA\n-----END PRIVATE KEY-----"
+  }
  }
