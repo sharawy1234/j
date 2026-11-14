@@ -780,4 +780,8 @@
     "deviceId": "6228a60a915caa6a",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgpIXHjjBmtFaToQpy\nck1LW3NawWUNNrzzMYWX0U92h+OhRANCAARMMHITO4Md4te9wA42eSqD8E4L7bVw\n1q8IiTrxauxSbDLevoVCVfxzeybIEL0sncc+rRPTsBXCorT3U2ISDkfu\n-----END PRIVATE KEY-----"
   }
+,  "mahmoudhamdi1993@outlook.com": {
+    "deviceId": "181d7218c69352e1",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgHeP55CkVBjFVGyIV\ndzQz7hJxaDRpgRlBxNMia/rdoQGhRANCAARMvxMt+zjnBpu2IAV4jdGURMsMWBQL\nNainFu4mGR3RIjkWI+Fvn2j+1Y2I5TUgCWreH0lZKTTB+7731gNVYolT\n-----END PRIVATE KEY-----"
+  }
  }
