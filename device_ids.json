@@ -772,4 +772,8 @@
     "deviceId": "720db662c2014f0e",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgws2ffD0vhsZP7KUV\nDntfVrPyWXXZwa+rQBhOLn9y9JihRANCAASZG5D9DNphJobGwxeLfdoQutOp33R1\n8nIXq6CZWl8YePBxTSWwhii4zPfd175Z/NGTcCb6ABBuENQd9iPr5TZg\n-----END PRIVATE KEY-----"
   }
+,  "amrsn1@outlook.com": {
+    "deviceId": "c95fb63c33dd09f1",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg5fAxOEipuT8VTitn\n03vRP/G5apIZDE1pzSzsZxbp06+hRANCAAQwmlVq9Xs6GNWzI8HRZd4S0DMS2rgB\nJoiI4mCHQJBnjI9LIxNsdRxvudSVPiWB4k41HLlulmiInYlEgWOUU/j8\n-----END PRIVATE KEY-----"
+  }
  }
