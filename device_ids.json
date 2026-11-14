@@ -824,5 +824,8 @@
 ,  "mohamedelkady678@protonmail.com": {
     "deviceId": "5ecbddecc6b90c44",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg1k2gPOYNdil825Q9\nm2y65SpNdUw8FE0bp0IzP4oF1TihRANCAAQktMt1WCIZQ/xXjxV93TyvLJ7+RkHx\npedTStRp8E2D97/bLaWD0dHfGpUIW3GzVYrE+A1KG4KOA5JtwBT5cjlW\n-----END PRIVATE KEY-----"
+  },  "mohamedelsaeied@outlook.com": {
+    "deviceId": "a00be3aec3cfbc6e",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgtGsbVEn3iCeoodMo\nqG1yzgXzAJFR+Ngk78V/PfbeFhihRANCAAROUJ+C3RTge1Mh+U8ZQDIkpCWwPsRr\nJixLSid9ge5hVrfpAweLvePu72JzP97jwswEZ+6ILoX4F6x8O0AVBVMx\n-----END PRIVATE KEY-----"
   }
  }
