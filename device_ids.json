@@ -828,4 +828,8 @@
     "deviceId": "a00be3aec3cfbc6e",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgtGsbVEn3iCeoodMo\nqG1yzgXzAJFR+Ngk78V/PfbeFhihRANCAAROUJ+C3RTge1Mh+U8ZQDIkpCWwPsRr\nJixLSid9ge5hVrfpAweLvePu72JzP97jwswEZ+6ILoX4F6x8O0AVBVMx\n-----END PRIVATE KEY-----"
   }
+,  "ahmedelkady677@outlook.com": {
+    "deviceId": "dbad539287979805",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgv+9L2XRmvbaY/dDl\nnT35HFcuhYMI4K7aflqHfKydHhShRANCAATNbwcskS5bahd4bSRnBBII9jEhUrfc\ntDsNQPZRdA4GxKrptrA1WEqQwfz8paIJGFnMbTX05DylYlLL7dapzq1C\n-----END PRIVATE KEY-----"
+  }
  }
