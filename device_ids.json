@@ -864,4 +864,8 @@
     "deviceId": "48d82465102ceccc",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgNC/dR249MtFG5QZH\nUyk6Xp2fUkmhdOPmEnFrhNa/IZWhRANCAAQkqaGPgN8vU8rQI4kN+QjIgGFiihEA\n3hX61z8XShU2y/QWp8tx8Kiou8dxd/T7Gq9v8ThEZNgjaPfONf6zVb2P\n-----END PRIVATE KEY-----"
   }
+,  "mohamedbadawyy73@gmail.com": {
+    "deviceId": "2323fc886abd8966",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgl6SxGLC1HWl6Qo9S\n/p4R6Y4btllMcYLkUhqjorCjOoGhRANCAARd164JLv0Z3CnM8QdkRHGAdG9zzTQp\nbjIg0iqcWzM3QSoCK2UteMnmm8OujA/+TaY3Ye/ZBUve/9mStLWKmOnY\n-----END PRIVATE KEY-----"
+  }
  }
