@@ -860,4 +860,8 @@
     "deviceId": "3ace0bb539bbe64c",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgxbbNZvjnSmpsKt5Z\nNmdk3qEIiKVSYRpkR1hwwcf4bY+hRANCAAQG4HKBRaO7Qh7QO4R6qlZlQ2JJgbTI\nGG8BTbeZQYlI2Qa9XwhjKpi53u7dWUc2vZTp+M5FRSgpRqtqouTPA5pu\n-----END PRIVATE KEY-----"
   }
+,  "alaaelbana11@outlook.com": {
+    "deviceId": "48d82465102ceccc",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgNC/dR249MtFG5QZH\nUyk6Xp2fUkmhdOPmEnFrhNa/IZWhRANCAAQkqaGPgN8vU8rQI4kN+QjIgGFiihEA\n3hX61z8XShU2y/QWp8tx8Kiou8dxd/T7Gq9v8ThEZNgjaPfONf6zVb2P\n-----END PRIVATE KEY-----"
+  }
  }
