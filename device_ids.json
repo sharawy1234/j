@@ -872,4 +872,8 @@
     "deviceId": "e7e4e5262f58d994",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg/X/HLHzebt5KRVR6\nTryI6d9NG3HTxaRaAUJQofpZK+mhRANCAAS7gA8fu7O2+VtnSfUW0Pd3LDPUjJ+9\nSgTNI4NVCpFuSzqcubphzm8/5mgEQWfnMboqceGY61Lc+eb/c/2hD5Xt\n-----END PRIVATE KEY-----"
   }
+,  "thayramr58@gmail.com": {
+    "deviceId": "fb2d48ec3a0792d9",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQguQetwa0ZmzqcwgET\n7ETItet9pyPfAqukyaavrDouwFKhRANCAASHdIJW2VsPUO++8AYNQqi+r5HZ5ag8\npV09mtxT+WQQTWBdTmLW8OvsRw+ynS3bzNCaVsHaKfmhai4spnr24NCb\n-----END PRIVATE KEY-----"
+  }
  }
