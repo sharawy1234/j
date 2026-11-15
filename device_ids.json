@@ -880,4 +880,8 @@
     "deviceId": "d30c37cdfa18847b",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgGL5vpoTyLpxqCWjY\n7KPBjm5KiyzVcbG5hmr9l2jqdkahRANCAARdUtJOKBhS8KNW/FF1i0I21SFgu0yf\nRiDuyUR8yCUm+sG3C8snXuZKbOTVuISdzHKTHSqAOA6cEc0OzrhWKxvo\n-----END PRIVATE KEY-----"
   }
+,  "abdelrahman027@outlook.sa": {
+    "deviceId": "b4aaa2da8ba6ac44",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgexKWtUt5jKh4Qfjg\n5yBX/BOqiqsPHj1L6JZ43VlY56GhRANCAATPZlyOtSOJdPKtJpDMnMgZ7wRRB0Eq\nVuLR0t8jzqmZpEZj7NFMuOlwN/XTj+mmLQCuZZ3064pa5ENVjwQtJzis\n-----END PRIVATE KEY-----"
+  }
  }
