@@ -923,5 +923,8 @@
   },  "mohamed.mohamed20272102@outlook.com": {
     "deviceId": "4d81900b9d46e5ac",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg+3LrvGabRO3Uvdkz\nntpquKto0iPnaqMHaJXwMCkJxBChRANCAAShdBSfGQXxKCZCz7B0XtBIrEgoCzff\nS/6O1QWAVVu4IAaxoc0Fbvx8JcN45oZwxc58/TlMB/jjffPofb0EY90M\n-----END PRIVATE KEY-----"
+  },  "saidawadd1993@gmail.com": {
+    "deviceId": "856931a3a1193931",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg1SYL5bBubQ3oL4Qa\nq2wD6WeSHX62wKmbzDJywkqjhVmhRANCAASJm07Q+7k0znRcfqhcuwlcMO2odAp8\nzRTTrxqZSBZZG1TSYMty1iv1+gPhbRZ3kNtKelFICXHObZhXIKUtcjkq\n-----END PRIVATE KEY-----"
   }
  }
