@@ -929,5 +929,8 @@
   },  "ganamohamed30@outlook.sa": {
     "deviceId": "1325e3b0033cfb2c",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgNDjoP/HtaS5O3VuE\ndCrc650e+3DQyWQqKrTCY/Nbx9ehRANCAARiuB1ztbxzvQ3YhDOUcpveKjX92AcN\nmqb+M9dpoDqghIHdKVqb7gyUO7dQDGnbkg738JEki94NmbzH2ReC4FqQ\n-----END PRIVATE KEY-----"
+  },  "adelabdellatif75@outlook.com": {
+    "deviceId": "96d6dbcf705021f7",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg9aWwmhnE8M9mJeYp\nnXkaMeinbgUuebFGeViP/iw21DOhRANCAAQSWujiL9FgkwnV/dkeFTR3+QeFSzaq\nv7SnB1f836UC1FK6Zd0dQT6yk0hMGsrcy/491c+PuhVurHCpRj0ftKw1\n-----END PRIVATE KEY-----"
   }
  }
