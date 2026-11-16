@@ -932,5 +932,8 @@
   },  "adelabdellatif75@outlook.com": {
     "deviceId": "96d6dbcf705021f7",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg9aWwmhnE8M9mJeYp\nnXkaMeinbgUuebFGeViP/iw21DOhRANCAAQSWujiL9FgkwnV/dkeFTR3+QeFSzaq\nv7SnB1f836UC1FK6Zd0dQT6yk0hMGsrcy/491c+PuhVurHCpRj0ftKw1\n-----END PRIVATE KEY-----"
+  },  "mohamed.mansour@jem-trading.com": {
+    "deviceId": "f29f01d179e91ce2",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgzuU0A5nyR4yPU4Ts\nvgJcOCDWdGGp5ZQBTPmbStllsKChRANCAAS4VpJWhKVvsnJxLFCzZCQoRZpR1g5+\neMCU18PTEtJJLacUn+MC7yE3f4vET4AtFcspGcilorgBnkdH4KpUe9c7\n-----END PRIVATE KEY-----"
   }
  }
