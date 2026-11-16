@@ -902,5 +902,8 @@
   },  "hazemhassan12@protonmail.com": {
     "deviceId": "4de5a2056d1161b7",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgP2Q//ua9NdQIqi2U\n0SZt+zINiDXZI31cImvg57C5M76hRANCAATHBsQ1cOgkCS2/q/Ccw/jdE9UBWJDC\nXVq6oEop3AdO+AhyJGCSC64axXF5NSpV+6RgRItlWVlr313gHMnjJLim\n-----END PRIVATE KEY-----"
+  },  "MahmoudElsaka12@proton.me": {
+    "deviceId": "ac6b588478f069cd",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgFQe6W/1Qdhv6vExo\n1itQkqg9LdfYD45TyswD260xOe6hRANCAATpSm80JZtr3tXTT3c/VzXrl8kTeA+Y\n86vvDduUeIJ0PPu0UvgQme0EfnKMYr7ghWvjJVrldDaeWELBJzw6pUoG\n-----END PRIVATE KEY-----"
   }
  }
