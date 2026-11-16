@@ -939,5 +939,8 @@
    ,  "ibrahimelshennawi@outlook.com": {
     "deviceId": "4b376c6afe5517de",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg84DnaD5iXtfWVloh\nlDx7kTXgEG4wMRhrFx0Q3HXWktChRANCAASEitoBDo6xJYpXDySzLjLUUfeQBosc\ny1zbaDkFzFIKkTe43PV0WGoEMjJGFbd9mE3q9GziuXRAnU0DZZIGih2f\n-----END PRIVATE KEY-----"
+  },  "KarimAbdelrahman236@protonmail.com": {
+    "deviceId": "103dc4c08259d9b8",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgiTM0KiLAqESB2+yt\nWjwvIv67ujIQXuATjFGEXNDIoYmhRANCAASOWqop8NY9qRYdouT6Whe2PWQ3D2k9\nivmU/vnVOaBg6ay3fxKSzPHOihH6js1RIqgKZAxxxRFFbLC0K7kfsfu9\n-----END PRIVATE KEY-----"
   }
  }
