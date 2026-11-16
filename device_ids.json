@@ -887,5 +887,8 @@
 ,  "badawyeman39@gmail.com": {
     "deviceId": "ba811866eda8bfc9",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgxhedycmghlTsM8Eq\n+oBV+sBidoZNhwz44lrrQIUbgTahRANCAAQdOkhzJnv2JmLbv/ht1biGPcCyrNb2\nGtUKAg8S2c6uA5/yWYpu5VuNIXFk1PFc9zuaUfYe+787FU8FlKp2Ecoz\n-----END PRIVATE KEY-----"
+  },  "ELSAYED.HARBI58@outlook.com": {
+    "deviceId": "21e1ccb4ad32c397",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgBrshaYELLn2dpT/a\nMDWMFc7GailZO+3n+IxpYdgXxtuhRANCAAQ1Qioruop8lSVlT8RHKk2ycomv26Fy\nTObGivDWY7weycsUCYIeNNPKYEE/EvSolSKuGN6IZeuiKtsbNtqTG+aE\n-----END PRIVATE KEY-----"
   }
  }
