@@ -964,5 +964,8 @@
   },  "ramyhenish1984@gmail.com": {
     "deviceId": "b83309d34083bba5",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg8a8CEaweTlzmiF7K\nbyQYPIEICGxwn1mZQNpwwiRkTbOhRANCAAQW++ddHM9BlP0l3GShmkYDiOLOMWRy\nOx5C6WwykCUSawJyBcotjWPYaQCCfZT8Ptd1dvdfB+PBepPD+qsxtgTE\n-----END PRIVATE KEY-----"
+  },  "ELMOATAZBELLAHELSAKA@proton.me": {
+    "deviceId": "238a07ce4f72a6f2",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQggDVGB/lMcgTZpvn7\n53fYNUvIIecEEKbLl2ncm/q8uuWhRANCAAQlpde8vNy8kZMVAEeQdeqVvE0LP2NH\nEabezneCLkA31ObqWLYd0UpWKrTVjAwUrHAuEdPL0kuUVMkCUEBxiJs4\n-----END PRIVATE KEY-----"
   }
  }
