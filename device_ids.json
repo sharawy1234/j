@@ -971,4 +971,8 @@
     "deviceId": "affe50942c219859",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgohET4fYddI+GviK0\nDwLU1gjHcYGhCFvyWfem8myvETyhRANCAASJEmuFrfXLHIJj6sq127zTkjmnt7BE\nqXRouKtw4ecE2WNUf04lr8S8MRIMNuJcdQPUHtihiMMXBeRRqIInfc4a\n-----END PRIVATE KEY-----"
   }
+,  "Manalelsayed2026@outlook.com": {
+    "deviceId": "8df33a364884b3ca",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgWgmKUkJVsa39rlco\nH4/xZl9d/d//7e19BFLFz8qXWn6hRANCAASxEr+zFFpmUGYdOwMBtrm6U+hdTTMk\ni1gAp7oAjill+SgO2sBTi6ZUfXzXrSzVCctCq4C2Q/pTfql44oUVoaUo\n-----END PRIVATE KEY-----"
+  }
  }
