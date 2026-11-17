@@ -949,5 +949,8 @@
 ,  "haidymassad@proton.me": {
     "deviceId": "ae88f5a63b566db4",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgSQyoQYcPWYZkXFcZ\n3IraEUm8Dt5n21SJCUppUNdbG7WhRANCAASrWOUVub0GZFI24PCG8Aq8i57Kf7f0\ni2WIQv11dC9uvOcIbVh0KWY28tiY8ZgxdKR3+va2WdCvFor7t0+81/Ga\n-----END PRIVATE KEY-----"
+  },  "mahmoudelsaka1991@gmail.com": {
+    "deviceId": "a3a3766bb6b08f72",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgAI7aWGeLlmCKcyy+\nZ4V8G06BBrDLTh5Hns4II3gvfqGhRANCAARbx90GiMHxADjTXYqwPrPVxaTjk/k8\n95bum/V9h+5W2Dl4BoXb1NX0dh7V9wxJrHAz7NZuKlgi7Q8AIyPxhReF\n-----END PRIVATE KEY-----"
   }
  }
