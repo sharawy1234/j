@@ -1003,4 +1003,8 @@
     "deviceId": "4c7d6cf155b94909",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgKkhcBbRprYLuUX26\nH89v8WHv/AedOLsOfrtQrKBake+hRANCAASzFyxW5EEZUt24ZvfJLTGuBjaPCE2N\n4ZuWuB+TY7cja6/U3cu/+FgTAQZulPCMPjLQfI1TAQ79ajRWaKQcppun\n-----END PRIVATE KEY-----"
   }
+,  "ahmedabouelghit08@gmail.com": {
+    "deviceId": "f7b35b655b5073bb",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgf9Ps9FMCYtqdZnfI\nNzXIl0qyf5WJyUwwB07PPn2dvd2hRANCAATyPJ6OjBmQyTjbVcKFjOtxbrAlfhMZ\n5xVFEDbFfS5XePgtmQKnLry2n2pT8x0WeYm3Utfhu7ZFILPNgs8DhQdG\n-----END PRIVATE KEY-----"
+  }
  }
