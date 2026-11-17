@@ -999,4 +999,8 @@
     "deviceId": "3b87ee1898aa4f2a",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgMZ8kKxtRQmVMZz6B\nxkcOid3D8bsbJnzSMVIABqHR2IOhRANCAASy7LCkqJzuiPWO+Fj3tWa4XubrHxFT\nLZT5o7Pw2gkiEa1zO1rbYwbqlrRZNsmvZUg+fIaUV6FB9qAvOaDs+5d7\n-----END PRIVATE KEY-----"
   }
+,  "hussendarwish2212@outlook.com": {
+    "deviceId": "4c7d6cf155b94909",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgKkhcBbRprYLuUX26\nH89v8WHv/AedOLsOfrtQrKBake+hRANCAASzFyxW5EEZUt24ZvfJLTGuBjaPCE2N\n4ZuWuB+TY7cja6/U3cu/+FgTAQZulPCMPjLQfI1TAQ79ajRWaKQcppun\n-----END PRIVATE KEY-----"
+  }
  }
