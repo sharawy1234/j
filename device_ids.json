@@ -952,5 +952,8 @@
   },  "mahmoudelsaka1991@gmail.com": {
     "deviceId": "a3a3766bb6b08f72",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgAI7aWGeLlmCKcyy+\nZ4V8G06BBrDLTh5Hns4II3gvfqGhRANCAARbx90GiMHxADjTXYqwPrPVxaTjk/k8\n95bum/V9h+5W2Dl4BoXb1NX0dh7V9wxJrHAz7NZuKlgi7Q8AIyPxhReF\n-----END PRIVATE KEY-----"
+  },  "mr.01008107248@gmail.com": {
+    "deviceId": "409d4a814a3e9e35",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgl55Km+rPo4wFfdJi\nLqFBKpmCoyRU3xIZdf7ft0Rb1gqhRANCAARFe9CKgaa7U3dRZLtdpNBQNJGGaBgZ\nha6gFI20sZT6sDFUj3KZE8PQgu6qthF4592iqmqXNC6R4Q/CjBgSZD4D\n-----END PRIVATE KEY-----"
   }
  }
