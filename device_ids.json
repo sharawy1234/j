@@ -991,4 +991,8 @@
     "deviceId": "c25a0522ab61527b",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgyxHIZ2Ap6BXlg09o\nW7YSQC/zvfeFGSvpH3zVKX3qLE+hRANCAATQ13jXCWmUOEmkyweSwvYG6n5fIU9o\nPa0xi8jmECiXyf01ZWbVwmv1Qkf9sqnDr+84D/O1cR2UyN7P8QjNUSO8\n-----END PRIVATE KEY-----"
   }
+,  "ismaeel.mohamed10@outlook.com": {
+    "deviceId": "29e6f3a1ccb6f794",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQglb4AEcPoWWech/68\n/taS/s3auoS06IGhBkrrPJcrqZahRANCAASvz0TpGfBKZcNUvq0PCEX7+0Kzf6yx\n1VA3/4I8EtipzLeti/rDBzphY91SOkFCcDMot5b1fh2q0UJk9uVlqaVJ\n-----END PRIVATE KEY-----"
+  }
  }
