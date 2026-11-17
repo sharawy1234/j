@@ -975,4 +975,8 @@
     "deviceId": "8df33a364884b3ca",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgWgmKUkJVsa39rlco\nH4/xZl9d/d//7e19BFLFz8qXWn6hRANCAASxEr+zFFpmUGYdOwMBtrm6U+hdTTMk\ni1gAp7oAjill+SgO2sBTi6ZUfXzXrSzVCctCq4C2Q/pTfql44oUVoaUo\n-----END PRIVATE KEY-----"
   }
+,  "saeedkhalid132@gmail.com": {
+    "deviceId": "8100114259cf49bb",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgv1+O5uwdhU5FbDpl\nDwuCqdfd/pUqDxA2V73+CarykZShRANCAATqqJDCL3SRhCDQjx/YUecK6V3/lQtk\nhxH2cJTWEkd2B11qtetKXt4bxqJd1hewcIDUipsc2jQ2LN2rKz+fwNth\n-----END PRIVATE KEY-----"
+  }
  }
