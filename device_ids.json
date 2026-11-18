@@ -1006,5 +1006,8 @@
 ,  "ahmedabouelghit08@gmail.com": {
     "deviceId": "f7b35b655b5073bb",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgf9Ps9FMCYtqdZnfI\nNzXIl0qyf5WJyUwwB07PPn2dvd2hRANCAATyPJ6OjBmQyTjbVcKFjOtxbrAlfhMZ\n5xVFEDbFfS5XePgtmQKnLry2n2pT8x0WeYm3Utfhu7ZFILPNgs8DhQdG\n-----END PRIVATE KEY-----"
+  },  "MohmoudImam253@protonmail.com": {
+    "deviceId": "390cd56522506694",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgI1TQKvTOJVLy39c4\nyCemRrN4KZOUkQYh2JDajt45ux6hRANCAATwp4NbrNbrdmGp2nwHXxTQaa7racTu\nmfUu0l5LXkXM/tAoVPuMIUG8Y1cXsi4V15FYqIEzLalvPDwEEHeI+3AW\n-----END PRIVATE KEY-----"
   }
  }
