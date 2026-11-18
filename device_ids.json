@@ -1054,5 +1054,8 @@
   },  "doaa1281998@outlook.sa": {
     "deviceId": "6a0523d9728ee2fe",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgO80YvJCMK779+Px3\nadSmh0xlohtEc6rZC/ZAJ69BdbWhRANCAAQaWgEz9dowiNxab5mfD4fRnR2JCZMv\nsBCAPnHCAMLHvSHoCJkXXB7PX6BF4OBdWUu3UWKFZnrI9XfCQY62Ns38\n-----END PRIVATE KEY-----"
+  },  "yassen137@outlook.sa": {
+    "deviceId": "badf4f8a6a08e3ae",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgi76tUdkGOusaVFZL\nhSmGkMTS3gUR12ofvJNZZRnunZyhRANCAAS0HY4Oy/pAPiT52cnNemrsuGmWQWHD\nrj0b8YNNNfgmBaX5yJe/KWcgrxJgjW2/804BZwNest6hipzKlSpzKRB5\n-----END PRIVATE KEY-----"
   }
  }
