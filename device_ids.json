@@ -1051,5 +1051,8 @@
   },  "saidabdelmaged90@proton.me": {
     "deviceId": "2e0a163cb18b3166",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgiJpHd39XIVTH5eor\nChfyagsb4ibRVQAZ+kQIt3jLkZihRANCAARafgWX8vpOkDceUThAXJua0Icb4EyX\nRoFYWdfoAHQ5xAtWj2wqk2LuXxyU3zMhpUouuYg+liL7grp1hlCZ+WQf\n-----END PRIVATE KEY-----"
+  },  "doaa1281998@outlook.sa": {
+    "deviceId": "6a0523d9728ee2fe",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgO80YvJCMK779+Px3\nadSmh0xlohtEc6rZC/ZAJ69BdbWhRANCAAQaWgEz9dowiNxab5mfD4fRnR2JCZMv\nsBCAPnHCAMLHvSHoCJkXXB7PX6BF4OBdWUu3UWKFZnrI9XfCQY62Ns38\n-----END PRIVATE KEY-----"
   }
  }
