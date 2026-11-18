@@ -1033,5 +1033,8 @@
   },  "aishafathielmezain@proton.me": {
     "deviceId": "d776c01f1631db91",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgDJle9Rswg+zUhl3n\nk3dmJk+meYZ2bqP5mvas8eTq7DmhRANCAAQ3CH8D1rKEvx0CDvNgEeguRg9jG0iY\nLWFNZdo1igocmM6i7gsutoAs2/WgQoLmk76ASrRzWnshJ2izkuaOyFbc\n-----END PRIVATE KEY-----"
+  },  "mny0100494@gmail.com": {
+    "deviceId": "0a89ea1933492079",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgemMHeLLhSfhH5J6X\nIUAerBzuCtKma1yeXyXf+1ygzbChRANCAATR7m4VDWZB+BMLsY+7AFgtIwfSaNJp\n18MmGwn418jr1ededLnjwdG3X6MdvUj5j4nL7JuJumqXnedoqiaaJqu3\n-----END PRIVATE KEY-----"
   }
  }
