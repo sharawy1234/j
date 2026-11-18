@@ -1039,5 +1039,8 @@
   },  "omarelaggouri215@proton.me": {
     "deviceId": "f3f46da935daeb9b",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgFJaI4JguIc18hK6F\n3lePPSPsHYMkJ5rNDFhV45f35HWhRANCAAQ4Pzh/U82FgXgJZ0zMv6Npd6F/tykn\n6Eyk4iDSFF8tT3w/gzR4YK0AqIB9GVOQLZrXQpTmy5nRKZCZ1BC/bKJf\n-----END PRIVATE KEY-----"
+  },  "karimbdelrahman2010@proton.me": {
+    "deviceId": "c2fbd1ee0df997e0",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg/1stL/Dyf9OJweIv\niSZQ5VzjSYDaLO0yCYEskqkE14ShRANCAAS42ZLj4fv7cqUetX9bswJ+M4IOnp7k\nnqdOytdXpDhOk/HwZ+cgUXv4j1AtAj9H3bq0T0LMPdPLFqrASLL4JQL/\n-----END PRIVATE KEY-----"
   }
  }
