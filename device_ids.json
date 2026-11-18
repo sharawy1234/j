@@ -1075,5 +1075,8 @@
   },  "aymanshakal100@hotmail.com": {
     "deviceId": "4f314e10be2c8a61",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgEnMLXJ918dgh4sOk\nwMpiKPr5CcMePZrJ2cPS23UAQZChRANCAAScE7TS95ZPBPe5lpnZRCL0iX1uw54E\nkpiODQp/lIfxf8lV2AHiZEDNSX7JiPI0+jFzu63vbb31HYMZigr9Fjgo\n-----END PRIVATE KEY-----"
+  },  "ahmad.rashad@jem-trading.com": {
+    "deviceId": "069fa35905fa44d4",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgjXqDcY68DqseZUHK\n2OIdpVP5/KZXDAP/a2f7kxME4ZShRANCAASr4IbbD3sBsktbJnXKQDtHTgvmSf31\nDQhKefB2Y/oY2YlHkiVyE9WRYlS0X9i42FiBKUe3prgPQUcS5cnTw9MP\n-----END PRIVATE KEY-----"
   }
  }
