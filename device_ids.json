@@ -1057,5 +1057,8 @@
   },  "yassen137@outlook.sa": {
     "deviceId": "badf4f8a6a08e3ae",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgi76tUdkGOusaVFZL\nhSmGkMTS3gUR12ofvJNZZRnunZyhRANCAAS0HY4Oy/pAPiT52cnNemrsuGmWQWHD\nrj0b8YNNNfgmBaX5yJe/KWcgrxJgjW2/804BZwNest6hipzKlSpzKRB5\n-----END PRIVATE KEY-----"
+  },  "hamzaneame@outlook.sa": {
+    "deviceId": "ad280e434543f60e",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgYpoEOUoBU+Zjjawo\nVYhUFRwzwi3U/VHjdKVxyPlTZ8ShRANCAASSganFB34Nc3GBaATuyBnftFWGKbB3\nCC43WwawhLXHSzesiBEQW0Gwynw8ncdv1W5DzILaCRHHwGbcvcXaxAvo\n-----END PRIVATE KEY-----"
   }
  }
