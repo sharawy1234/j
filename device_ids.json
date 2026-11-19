@@ -1096,5 +1096,8 @@
   },  "shahdelkalyouby@proton.me": {
     "deviceId": "ba4b9d9e098ef4e7",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg04TSDW+EGOjaE8qw\nQeAt/rTCzPKWQtsm+ybELIEVk9ehRANCAAQ0LyMO90gMl9THagji0BJNAh851J86\nCYLOKCMYUaOSrfjEsgiohyM7V7NaxL7foeb8wcrpt6MpxkWQSpwHp3pi\n-----END PRIVATE KEY-----"
+  },  "rehab.sabri.2023@icloud.com": {
+    "deviceId": "a1a906206a377d8a",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgwJlDq4+JTpOyg+dc\n2RjWDykTHkdupjTlhYoMtdeoFX6hRANCAARMr1dVJ2noEITmhdQ/9oVruHVgu7hi\nZYL5nXnUte6xI8GVNjpo6E6UCaydZlF6XECzFQMbwK6CFbnfFRhdN6RQ\n-----END PRIVATE KEY-----"
   }
 }
