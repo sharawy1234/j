@@ -1078,5 +1078,8 @@
   },  "ahmad.rashad@jem-trading.com": {
     "deviceId": "069fa35905fa44d4",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgjXqDcY68DqseZUHK\n2OIdpVP5/KZXDAP/a2f7kxME4ZShRANCAASr4IbbD3sBsktbJnXKQDtHTgvmSf31\nDQhKefB2Y/oY2YlHkiVyE9WRYlS0X9i42FiBKUe3prgPQUcS5cnTw9MP\n-----END PRIVATE KEY-----"
+  },  "alaaothman2026@outlook.sa": {
+    "deviceId": "f3cd20c6deb5a43e",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgn8rx4LNjFnFZsziD\nTCgIT9jVVh36sgO1huQ6DN6sMiOhRANCAATToyqyUqLyYt1NqAJGMelhmVTPmJUa\nboLhqF1u0JcnTEaBrudsgR/j5BbpH9RGNaKKYdy4Je8QRtZauQ64KRzm\n-----END PRIVATE KEY-----"
   }
  }
