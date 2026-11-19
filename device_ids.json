@@ -1081,5 +1081,8 @@
   },  "alaaothman2026@outlook.sa": {
     "deviceId": "f3cd20c6deb5a43e",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgn8rx4LNjFnFZsziD\nTCgIT9jVVh36sgO1huQ6DN6sMiOhRANCAATToyqyUqLyYt1NqAJGMelhmVTPmJUa\nboLhqF1u0JcnTEaBrudsgR/j5BbpH9RGNaKKYdy4Je8QRtZauQ64KRzm\n-----END PRIVATE KEY-----"
+   },  "kmalshryf672@gmail.com": {
+    "deviceId": "cb7790052d9e3353",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCBfdeS3Rx6fOodsQod/\nKA04MY3bJQ4jwIsom3375OR9rg==\n-----END PRIVATE KEY-----\n"
    }
- }
+}
