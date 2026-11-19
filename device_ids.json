@@ -1081,10 +1081,5 @@
   },  "alaaothman2026@outlook.sa": {
     "deviceId": "f3cd20c6deb5a43e",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgn8rx4LNjFnFZsziD\nTCgIT9jVVh36sgO1huQ6DN6sMiOhRANCAATToyqyUqLyYt1NqAJGMelhmVTPmJUa\nboLhqF1u0JcnTEaBrudsgR/j5BbpH9RGNaKKYdy4Je8QRtZauQ64KRzm\n-----END PRIVATE KEY-----"
-  },
-  "doaagafar1998@gmail.com": {
-    "deviceId": "45f2c4907ecacd70",
-    "privateKey": "-----BEGIN PRIVATE KEY-----\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCBdCgxV3N8AGR4vVlt1\nICk1VH2YyObQuytewFVP48bBbQ==\n-----END PRIVATE KEY-----\n",
- }
- 
+   }
  }
