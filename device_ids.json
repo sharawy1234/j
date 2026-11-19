@@ -1084,5 +1084,11 @@
    },  "kmalshryf672@gmail.com": {
     "deviceId": "cb7790052d9e3353",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCBfdeS3Rx6fOodsQod/\nKA04MY3bJQ4jwIsom3375OR9rg==\n-----END PRIVATE KEY-----\n"
+   },  "mohamedbousha100@hotmail.com": {
+    "deviceId": "ab1bc4be6af3d9f0",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCD5jnlhpGCw4V3Ila5k\nxdOPDYkhdssVqz8RI54JwcXIVw==\n-----END PRIVATE KEY-----\n"
+   },  "doaagafar1998@gmail.com": {
+    "deviceId": "45f2c4907ecacd70",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCBdCgxV3N8AGR4vVlt1\nICk1VH2YyObQuytewFVP48bBbQ==\n-----END PRIVATE KEY-----\n"
    }
 }
