@@ -1093,5 +1093,8 @@
    },  "Laila.adham.net@gmail.com": {
     "deviceId": "9b47da7886dd61a3",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgnJX7o5eVDK9gpeJM\nnRiEOFO7yoLpQvyfABZzw29+rG6hRANCAASc3oGvp/qkmi4FfHNto0LrIbGDX2j6\nxBNRDFzyDc9g04HgmlP+n+mt9RKa8ipH6PwjXqKRMPckwcx7migIHNdD\n-----END PRIVATE KEY-----"
+  },  "shahdelkalyouby@proton.me": {
+    "deviceId": "ba4b9d9e098ef4e7",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg04TSDW+EGOjaE8qw\nQeAt/rTCzPKWQtsm+ybELIEVk9ehRANCAAQ0LyMO90gMl9THagji0BJNAh851J86\nCYLOKCMYUaOSrfjEsgiohyM7V7NaxL7foeb8wcrpt6MpxkWQSpwHp3pi\n-----END PRIVATE KEY-----"
   }
 }
