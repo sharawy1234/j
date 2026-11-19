@@ -1090,5 +1090,8 @@
    },  "doaagafar1998@gmail.com": {
     "deviceId": "45f2c4907ecacd70",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCBdCgxV3N8AGR4vVlt1\nICk1VH2YyObQuytewFVP48bBbQ==\n-----END PRIVATE KEY-----\n"
-   }
+   },  "Laila.adham.net@gmail.com": {
+    "deviceId": "9b47da7886dd61a3",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgnJX7o5eVDK9gpeJM\nnRiEOFO7yoLpQvyfABZzw29+rG6hRANCAASc3oGvp/qkmi4FfHNto0LrIbGDX2j6\nxBNRDFzyDc9g04HgmlP+n+mt9RKa8ipH6PwjXqKRMPckwcx7migIHNdD\n-----END PRIVATE KEY-----"
+  }
 }
