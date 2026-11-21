@@ -1114,5 +1114,8 @@
   },  "Mahmoudsmeida@hotmail.com": {
     "deviceId": "b498d47bf374503a",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCAnni8gqNgy7JRBiQX3\nS02ZkwQaOFlu48Xu+OIkus81Uw==\n-----END PRIVATE KEY-----\n"
+  },  "nabilgharib@proton.me": {
+    "deviceId": "f7a1a4df918b8d6e",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgkO5RtHq3PXqnW0y2\nkonFzjoRbsKbVlCyYPHXoUoG90uhRANCAAQH/37BUkI2tDUXuVUx4apkLpm0+nfr\n2dcIM/FgkNH+cY/FTqAmirqj8/05U5HNQFC7EQc2eOsyVbl5Y1nRjP0W\n-----END PRIVATE KEY-----"
   }
 }
