@@ -1105,5 +1105,14 @@
   },  "saramostafa1617@outlook.com": {
     "deviceId": "1f4ebb79811ef808",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgZ2u+pWWpFqMUBf+v\nn4gcWfiygX8Sc6T2JL6BmmXEgSahRANCAATpn9Xmyyw9m9Br2mrQggZgMEKyQdBs\nHn0Ua0Hlgy59fk6RPgAk5iSXtCHUjHXPDiNvRLI2paHUvzGEkuVzX64n\n-----END PRIVATE KEY-----"
+  },  "mahmoudfouadfarag@hotmail.com": {
+    "deviceId": "a5f4d69cefb0c71c",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCBckh2En9JcsaTZXKQx\nmCPtfhb3P8c7J07YHFt+WZ0yXA==\n-----END PRIVATE KEY-----\n"
+  },  "mostafaopaya@hotmail.com": {
+    "deviceId": "6137575a8316cdc8",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCDQbMDdMEsIVJPFN1mh\nrpijWpdra7OPw1forbOlohrEcw==\n-----END PRIVATE KEY-----\n"
+  },  "Mahmoudsmeida@hotmail.com": {
+    "deviceId": "b498d47bf374503a",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCAnni8gqNgy7JRBiQX3\nS02ZkwQaOFlu48Xu+OIkus81Uw==\n-----END PRIVATE KEY-----\n"
   }
 }
