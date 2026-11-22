@@ -1189,4 +1189,8 @@
     "deviceId": "e845e90dbdee07cf",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgLs/XwXlkw51ZUvJg\nApoTdBgTXw6Od0zHAyeY8GXGX8qhRANCAATKV+FH52jcPuRzU02C4SP54DdMXSMz\nJC+qq58yvtm7BU8ITTQb+o3t+KUl0gxE3uOOUtPo4oZYR+aNumJRpSRW\n-----END PRIVATE KEY-----"
   }
+,  "mabdelrehim502@gmail.com": {
+    "deviceId": "e7917b3b11f0c212",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg8dqDiPcxSpXdh9mM\nNHUieIZqS0wuN11IR7sMugwjUeuhRANCAAQGnO6K8D7BrEnywOb7Xc7roTigACLt\nYiiFaxp01v4ebTdXuNErasSx4HBObyv2OsVt9IWlJsC6vtOImjK0KKt5\n-----END PRIVATE KEY-----"
+  }
 }
