@@ -1181,4 +1181,8 @@
     "deviceId": "03a4e681f575cab3",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgBFjFbktRpM2b+U/D\n4W1eImkaN+FKMn/H5H5KmxLWcRahRANCAAQ/A7xbCmgErV+IbiANN7oBhUXMTryN\nvabLNdWC5qF2do0oogwqKBXa/5iKkTM3icr+Hk19YHaNrwU/ifH5kntO\n-----END PRIVATE KEY-----"
   }
+,  "doniamohamed76@outlook.com": {
+    "deviceId": "587a60cd3ddff2a8",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgKlOvAYubRfkQ435w\ni2J2GMWdAbzv6swXUwFMD6FM/iqhRANCAASNLj7lxhq9RJnkAFsBER9xKmETeZXs\ne0IOQDoZz/gj8a3VCZMwuARpLeP0DBj1Kn/EIDGy16wJGgHqOnBAXPbN\n-----END PRIVATE KEY-----"
+  }
 }
