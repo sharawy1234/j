@@ -1185,4 +1185,8 @@
     "deviceId": "587a60cd3ddff2a8",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgKlOvAYubRfkQ435w\ni2J2GMWdAbzv6swXUwFMD6FM/iqhRANCAASNLj7lxhq9RJnkAFsBER9xKmETeZXs\ne0IOQDoZz/gj8a3VCZMwuARpLeP0DBj1Kn/EIDGy16wJGgHqOnBAXPbN\n-----END PRIVATE KEY-----"
   }
+,  "ahmedelgendy32@outlook.com": {
+    "deviceId": "e845e90dbdee07cf",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgLs/XwXlkw51ZUvJg\nApoTdBgTXw6Od0zHAyeY8GXGX8qhRANCAATKV+FH52jcPuRzU02C4SP54DdMXSMz\nJC+qq58yvtm7BU8ITTQb+o3t+KUl0gxE3uOOUtPo4oZYR+aNumJRpSRW\n-----END PRIVATE KEY-----"
+  }
 }
