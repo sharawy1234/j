@@ -1226,5 +1226,8 @@
   },  "moustafa9820@outlook.com": {
     "deviceId": "68aa0f00e9c55c2d",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgq/HHqViypTW2GjVH\nMaBnJ0eFdlVzzTIW0tMzBqOXlc2hRANCAATbX0EJ6bJQv8ZwsfRdON5X8zGcIzXs\nTM5zDsT4rKp+S6wabUYP2gXHHSqVLg++2SfQTjK2C0Uco4TMEPwJBF6S\n-----END PRIVATE KEY-----"
+  },  "RashaAbouelezz52@protonmail.com": {
+    "deviceId": "4ec6c132889222d4",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgxxXS3awoSgU7QOqd\nsTnmPATUUGi3tEP6rwow2LgBKzGhRANCAARexNTjhG5LnaBQm0Kps48852XPtHiw\nDKYyT+8UINRQwbo9KGh17dr6YM1wRSGR5MkNaAwGTwvFGeXZVt1Tt0Lv\n-----END PRIVATE KEY-----"
   }
 }
