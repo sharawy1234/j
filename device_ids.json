@@ -1248,4 +1248,8 @@
     "deviceId": "ac6f5ccd744d28e9",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgbQj0LgCpTGTeBFQG\nOnCTEwX7YYVoD9H/ny/L887TFFGhRANCAAQL/RMQ0ZUkB59TcLX4JFUrtYHZ3Ki/\nX3g1qQA6BWjHk1xo8pmiMyUvTcfZC4EXWGTkbrpkVQGwS6auXNAFhysZ\n-----END PRIVATE KEY-----"
   }
+,  "FatinAbdelmessih12@protonmail.com": {
+    "deviceId": "272005da01cf2c13",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgQfaGoPa8/YtDfqvB\n3UMoMfmwALZqQkut/gGKR0SrcIKhRANCAAQQwMu7GHPQNdBtXGHNPunO6MZnWIV/\noQXcGVdplavy150T+zfUrJ63ZShIB7oRjOnyVHtqwMRb+uHBuDgCdNKO\n-----END PRIVATE KEY-----"
+  }
 }
