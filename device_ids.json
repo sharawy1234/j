@@ -1236,4 +1236,8 @@
     "deviceId": "bd30e23a40abc390",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgZL98LsK48Fa355FJ\nKiprAYHauFCrMpUqnQOKCVkuZGqhRANCAARbtQ6i4+30JfJ5Bm71m04h2kicqoAp\nyeg0tH1EcIeG1gEsLtVOZ5IxNBKc1rJDBMGzPNqDMJkFg+9xCj6q4KF2\n-----END PRIVATE KEY-----"
   }
+,  "saberkassem2027@gmail.com": {
+    "deviceId": "03ceb0cdafa1ba33",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg/UNOuH3K0ZcIxzjR\nvD9mhFbmR4RETWytmasKGJygqPahRANCAATg6PU8KYEGeD4kwuDA0rOXL3NPmORW\ndajYwwzqsD6W5kRQ8YkH9Ir3j7FMzFKcLL6lKl3CkL93fprwo/YNDA5p\n-----END PRIVATE KEY-----"
+  }
 }
