@@ -1240,4 +1240,8 @@
     "deviceId": "03ceb0cdafa1ba33",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg/UNOuH3K0ZcIxzjR\nvD9mhFbmR4RETWytmasKGJygqPahRANCAATg6PU8KYEGeD4kwuDA0rOXL3NPmORW\ndajYwwzqsD6W5kRQ8YkH9Ir3j7FMzFKcLL6lKl3CkL93fprwo/YNDA5p\n-----END PRIVATE KEY-----"
   }
+,  "youssef.aiman.7@gmail.com": {
+    "deviceId": "06738f9e2ceb2e3f",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgAoMNeT8gLoOe2Htg\n/2n99B+PrhZG8DkOge9qoYoToY2hRANCAAQbCKHk1EV4b8UNgr+GGXiuijpRNBSt\nhRoPJofkvj4G3xeMZ113p3qHAdvpP4h3WzFS1PP1UHDBPuo61Da6XksU\n-----END PRIVATE KEY-----"
+  }
 }
