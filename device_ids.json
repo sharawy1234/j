@@ -1252,4 +1252,8 @@
     "deviceId": "272005da01cf2c13",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgQfaGoPa8/YtDfqvB\n3UMoMfmwALZqQkut/gGKR0SrcIKhRANCAAQQwMu7GHPQNdBtXGHNPunO6MZnWIV/\noQXcGVdplavy150T+zfUrJ63ZShIB7oRjOnyVHtqwMRb+uHBuDgCdNKO\n-----END PRIVATE KEY-----"
   }
+,  "AnasKanaber67@protonmail.com": {
+    "deviceId": "9fa0a18da3a38645",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgzsOSxeg2hdJ50HaZ\nqaGV+IEStZb2pKcPWdQF1+9X08WhRANCAAQ61xtOFDFS+QqVEGbGbmMo0ZoB7hCe\nkt9PtQnx1fPc+soPBK8ry+kldN8wsk2gdCgourat/a/C5srA+kGUkP2i\n-----END PRIVATE KEY-----"
+  }
 }
