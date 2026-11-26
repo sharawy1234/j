@@ -1260,4 +1260,8 @@
     "deviceId": "370b665b13609288",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgHRbxrRDprhyikeZJ\nmCaleO/GWQDyu57Sb+VC1PF/3RehRANCAARb+3ZiJ/dGArz9xXNlJwtVFoNlmCbH\n71UfO1HZO3usnzS40fpkVmf5laY6JuTJAHMJt7YapdTHlmjZ62mEsKoP\n-----END PRIVATE KEY-----"
   }
+,  "heshamegy@hotmail.com": {
+    "deviceId": "e4f9be1e2290c6be",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgQfG1Wxsdvv9188dB\nvvs42qB8qi3k0Nt7CzIzaPGGjYGhRANCAASFRc9MTMOWSwFyjFinF3JzF///K4hR\nhD82PWUT+ASy6y/n8Q971Wvfo0qPVtZXM8GTnKuJp21YVwdcyU/MCOr8\n-----END PRIVATE KEY-----"
+  }
 }
