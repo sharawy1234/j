@@ -1263,5 +1263,8 @@
 ,  "heshamegy@hotmail.com": {
     "deviceId": "e4f9be1e2290c6be",
     "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgQfG1Wxsdvv9188dB\nvvs42qB8qi3k0Nt7CzIzaPGGjYGhRANCAASFRc9MTMOWSwFyjFinF3JzF///K4hR\nhD82PWUT+ASy6y/n8Q971Wvfo0qPVtZXM8GTnKuJp21YVwdcyU/MCOr8\n-----END PRIVATE KEY-----"
+  },  "aliabdelaziz2511@gmail.com": {
+    "deviceId": "eec1bb77085b7300",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgI9+pkroG+fTWiHGy\nlASB1QbW9jP9vCydTSAE+CBsxVuhRANCAASx+VahSfwPUZnO6mlwx68aopSWhv+W\nmQo25j2bu7+r2ZRsgkyefXKzWPAMRM9kV/b+OcLP+yX/Jj7Ldr8lR+bv\n-----END PRIVATE KEY-----"
   }
 }
